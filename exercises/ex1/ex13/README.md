@@ -13,11 +13,10 @@ Run through the following steps.
     <br>![Script collection](/exercises/ex1/images/01-0011.png)
     
 4. Switch to the Receiver Tab in the same dialog and replace **New Hire EMail ID** to your own Email ID where you can login and check the emails.
+   Then select *Save*. Once saved, select *Deploy*
 
     <br><img src="/exercises/ex1/images/01-0012.png" width=80%>
     
-5. Then select *Save*. Once saved, select *Deploy*
-
 6. Confirm the next dialog and click on Ok.
 
     <br>![Script collection](/exercises/ex1/images/01-0013.png)
