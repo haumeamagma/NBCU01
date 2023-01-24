@@ -17,7 +17,7 @@ Run through the following steps
 
     <br>![Create button](/exercises/ex1/images/01-0002.png)
 
-4. In the new package, maintain the unique name **Teched 2022 IN260 - XX** with **XX** replaced with the participant number assigned to you
+4. In the new package, maintain the unique name **D-Com 2023 HO010 - XX** with **XX** replaced with the participant number assigned to you
 5. Maintain a short description
 6. When done, click on *Save*
 
