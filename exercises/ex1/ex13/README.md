@@ -11,7 +11,7 @@ Run through the following steps.
 
 2. In the upcoming dialog, maintain the Queue name **HO010_XX_Email** whereas replacing **XX** with the participant number assigned to you.
     <br>![Script collection](/exercises/ex1/images/01-0011.png)
-4. 4. Switch to the Receiver Tab in the same dialog and replace **New Hire EMail ID** to your own Email ID where you can login and check the emails.
+4. Switch to the Receiver Tab in the same dialog and replace **New Hire EMail ID** to your own Email ID where you can login and check the emails.
 
     <br><img src="/exercises/ex1/images/01-0012.png" width=80%>
 
