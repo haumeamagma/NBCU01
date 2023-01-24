@@ -9,16 +9,18 @@ Run through the following steps.
 
     <br>![Script collection](/exercises/ex1/images/01-0010.png)
 
-2. In the upcoming dialog, maintain the Topic name **IN260_XX** whereas replacing **XX** with the participant number assigned to you, as was created in the [Exercise 0 - Create a Kafka topic](/exercises/ex0)
-3. Then select *Save*
+2. In the upcoming dialog, maintain the Queue name **HO010_XX_Email** whereas replacing **XX** with the participant number assigned to you.
+    <br>![Script collection](/exercises/ex1/images/01-0011.png)
+4. 4. Switch to the Receiver Tab in the same dialog and replace **New Hire EMail ID** to your own Email ID where you can login and check the emails.
 
-    <br><img src="/exercises/ex1/images/01-0011.png" width=80%>
+    <br><img src="/exercises/ex1/images/01-0012.png" width=80%>
 
-4. Once saved, select *Deploy*
+4. Then select *Save*. Once saved, select *Deploy*
 
-    <br>![Script collection](/exercises/ex1/images/01-0012.png)
+    <br>![Script collection](/exercises/ex1/images/01-0013.png)
 
-5. Confirm the next two dialogs
+5. Confirm the next two dialog and click on Ok.
+    <br>![Script collection](/exercises/ex1/images/01-0014.png)
 
 ## Summary
 
