@@ -21,7 +21,7 @@ Run through the following steps.
 
     <br>![Copy](/exercises/ex1/images/01-0007.png)
 
-5. In the upcoming dialog, add the participant number assigned to you to the name of the copied integration flow
+5. In the upcoming dialog, add the participant number assigned to you to the **name** of the copied integration flow. Update the name of the integration flow to **SAP SFSF New Hire Welcome Email along with Qualtrics Survey Link_XX**
 6. **Important**: as target package select your beforehand created package to ensure that the integration flow is copied into your package
 7. When done, select the *Copy* button
 
