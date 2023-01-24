@@ -14,7 +14,7 @@ This repository contains the material for the SAP d-com 2023 session called *<TO
 Check out the following chapters to understand the overall integration scenario that is handled in this exercise:
 
 Scenario Introduction
-- [New hire event configuration in SAP SuccessFactors (for your information only)](intro/intro2) 
+- [New hire event configuration in SAP SuccessFactors (for your information only)](intro/sf_intro) 
 
 This template is a suggested approach in structuring you content. 
 
