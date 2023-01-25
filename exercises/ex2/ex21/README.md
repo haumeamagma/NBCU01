@@ -13,7 +13,7 @@ Run through the following steps
 
     <br><img src="/exercises/ex1/images/01-0001.png" width=50%>
 
-3. Open the package **D-Com 2023 H0O10 - Solution** and navigate to the artifacts tab.
+3. Use _Filter_ with **SOLUTION* to find  the package **D-Com 2023 H0O10 - Solution** and navigate to the artifacts tab.
 
     <br>![Maintain package name](/exercises/ex1/images/01-0003.png)
     
