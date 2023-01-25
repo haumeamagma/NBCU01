@@ -9,7 +9,7 @@ Run through the following steps.
 
     <br><img src="/exercises/ex1/images/01-0004.png" width=50% height=50%>
     
-2. In the Design area, open the **Teched 2022 IN260 - SOL** package
+2. In the Design area, open the **D-Com 2023 HO010 - SOLUTION** package
 
     <br><img src="/exercises/ex1/images/01-0005.png" width=50% height=50%>
     
@@ -17,7 +17,7 @@ Run through the following steps.
 
     <br><img src="/exercises/ex1/images/01-0006.png" width=50% height=50%>
 
-4. From the *Actions* menu of the **SAP SFSF New Hire Welcome Email with Qualtrics Survey Link - SOL**, select the menu entry *Copy*
+4. From the *Actions* menu of the **SAP SFSF New Hire Welcome Email along with Qualtrics Survey Link - SOL**, select the menu entry *Copy*
 
     <br>![Copy](/exercises/ex1/images/01-0007.png)
 
