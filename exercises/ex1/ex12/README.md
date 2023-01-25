@@ -17,7 +17,7 @@ Run through the following steps.
 
     <br><img src="/exercises/ex1/images/01-0006.png" width=50% height=50%>
 
-4. From the *Actions* menu of the **SAP SFSF New Hire Welcome Email along with Qualtrics Survey Link - SOL**, select the menu entry *Copy*
+4. From the *Actions* menu of the **SAP SFSF New Hire Welcome Email along with Qualtrics Survey Link **, select the menu entry *Copy*
 
     <br>![Copy](/exercises/ex1/images/01-0007.png)
 
