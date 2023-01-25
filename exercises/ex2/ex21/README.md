@@ -31,7 +31,7 @@ Run through the following steps
 
 8. After the integration flow has been copied, you are asked to navigate to your package. Confirm by selecting button *Navigate*
 
-    <br>![Navigate to your package](/exercises/ex3/images/02-0004.png)
+    <br>![Navigate to your package](/exercises/ex2/images/02-0004.png)
  
 ## Summary
 
