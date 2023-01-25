@@ -22,7 +22,7 @@ Run through the following steps
 
     <br>![Copy](/exercises/ex2/images/02-0002.png)
 
-5. In the upcoming dialog, add the participant number assigned to you to the **name** of the copied integration flow. Update the name of the integration flow to **SAP SFSF New Hire Onboarding Process using SAP Build Process Automation_XX*, replacing **XX** with the participant number assigned to you.
+5. In the upcoming dialog, add the participant number assigned to you to the **name** of the copied integration flow. Update the name of the integration flow to **SAP SFSF New Hire Onboarding Process using SAP Build Process Automation_XX**, replacing **XX** with the participant number assigned to you.
 
 6. **Important**: as target package select your beforehand created package to ensure that the integration flow is copied into your package
 7. When done, select the *Copy* button
