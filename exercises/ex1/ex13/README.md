@@ -11,7 +11,7 @@ In this step the following values needed for further processing are extracted fr
 <br>![Script collection](/exercises/ex1/images/01-0018-step2.png)
 
 3. Content Modifier to **Set Email Body**
-Here theNew Hire Welcome Email is composed based on values extracted in the previous step. The New Hire Email inputed from the user through configuration is being used.
+Here theNew Hire Welcome Email is composed based on values extracted in the previous step. The New Hire Email inputed from the user through configuration will be used.
 <br>![Script collection](/exercises/ex1/images/01-0018-step3.png)
 
 ## Exercise steps
