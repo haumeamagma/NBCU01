@@ -2,8 +2,6 @@
 
 In this exercise, you will configure and deploy the beforehand copied integration flow.
 
-Integration flow design,
-
 Let us begin with understanding the integration flow copied. This integration flow has three steps:
 1. JSON to XML Converter - The message received from AEM is in JSON format. Working with XML message formats opens up many possibilities with Integration Suite, hence we transform the message from JSON to XML. Learn more about [JSON to XML Converter](https://help.sap.com/docs/CLOUD_INTEGRATION/368c481cd6954bdfa5d0435479fd4eaf/5a7c0cd2a3e8497c89ffcda41787477f.html?q=JSON to XML&locale=en-US). 
 
