@@ -8,6 +8,7 @@ Let us begin with understanding the integration flow copied. This integration fl
 
 2. Content Modifier to **Extract New Hire Attributess** and
 In this step the following values needed for further processing are extracted from the input payload : employeeId,employeeName,hireDate,gender,dateOfBirth,email,cellPhone,managerId,managerName,managerHR,company,jobTitle,departmentCode,departmentText,businessunitCode, businessunitText,divisionCode,divisionText,location and country.
+<br>![Script collection](/exercises/ex1/images/01-0018-payload.png) 
 <br>![Script collection](/exercises/ex1/images/01-0018-step2.png)
 
 3. Content Modifier to **Set Email Body**
