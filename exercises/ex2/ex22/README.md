@@ -9,8 +9,8 @@ Let us begin with understanding the integration flow copied. This integration fl
 <br>![Script collection](/exercises/ex2/images/02-0010-step2.png) 
 <br>![Script collection](/exercises/ex2/images/02-0010-step3.png)
 
-3. Trigger Call to *external system* which is the SAP Build Process Automation through a Request Reply Step
-<br>![Script collection](/exercises/ex2/images/02-0010-step4.png
+3. Trigger Call to *external system* which is the SAP Build Process Automation through a Request Reply Step.
+<br>![Script collection](/exercises/ex2/images/02-0010-step4.png)
 
 In this exercise, you will configure and deploy the beforehand copied integration flow.
 
