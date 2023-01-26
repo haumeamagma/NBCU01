@@ -1,8 +1,8 @@
-# Hands on title
+# Event-Driven Hyper-Automation using SAP Integration Suite and SAP Build [HO010]
 
 ## Description
 
-This repository contains the material for the SAP d-com 2023 session called *<TOPIC>*.
+Learn how to build an event-driven hyper-automation scenario where you react and respond to a new hire business event from SAP SuccessFactors using SAP Integration Suite. This includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.
 
 ## Prerequisite
 
