@@ -16,7 +16,8 @@ In this step the following values needed for further processing are extracted fr
 
 3. Content Modifier to **Set Email Body**
 Here theNew Hire Welcome Email is composed based on values extracted in the previous step. The New Hire Email is inputed from the user through configuration.
-Learn more about content modifier basics here- https://help.sap.com/docs/CLOUD_INTEGRATION/368c481cd6954bdfa5d0435479fd4eaf/b0576a824cdf46868fcc70fd9e697f16.html?q=content modifier&locale=en-US
+Learn more about [Content modifier basics] 
+https://help.sap.com/docs/CLOUD_INTEGRATION/368c481cd6954bdfa5d0435479fd4eaf/b0576a824cdf46868fcc70fd9e697f16.html?q=content modifier&locale=en-US
 
 <br>![Script collection](/exercises/ex1/images/01-0018-step3.png)
 
