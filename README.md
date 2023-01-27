@@ -15,6 +15,7 @@ Check out the following chapters to understand the overall integration scenario 
 
 Scenario Introduction
 - [New hire event configuration in SAP SuccessFactors (for your information only)](intro/intro2) 
+- [SAP Integration Suite, advance event mesh configuration (for your information only)](intro/AEM) 
 
 This template is a suggested approach in structuring you content. 
 
