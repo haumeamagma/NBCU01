@@ -33,7 +33,7 @@ Feel free to add/modify sections according to your needs.
 ## Exercises
 
 1. [ex1](exercises/ex1/README.md)
-2. [ex2](exercises/ex2/README.md)
+2. [ex2](exercises/ex2/ex21/README.md)
 
 <!-- />
 Comments
