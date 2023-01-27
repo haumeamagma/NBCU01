@@ -12,9 +12,9 @@ In the last part of the exercise, you will go through all the steps that were tr
 
 Run through the exercise steps in the given order.
 
-[Check Cloud Integration Monitoring](/exercises/ex4/ex41)
-[Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
-[Check Build Process Automation Inbox](/exercises/ex4/ex43)
+<br>[Check Cloud Integration Monitoring](/exercises/ex4/ex41)
+<br>[Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
+<br>[Check Build Process Automation Inbox](/exercises/ex4/ex43)
 
 ## Summary
 
