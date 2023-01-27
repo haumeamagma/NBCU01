@@ -46,6 +46,4 @@ On right side is the Metadata of the output
 
 You should now be familiar with all the configurations that has been done in SAP SuccessFactors to enable new hire events publication to Cloud Integration.
 
-Now, we show pre-deployed integration flow to publish events. Continue to - [Publish to Confluent Kafka](/intro/intro3)
-
 
