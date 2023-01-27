@@ -19,4 +19,4 @@ Run through the exercise steps in the given order.
 
 At the end of the first part of the tutorial, you should have configured and deployed an integration flow to send out the welcome email.
 
-Continue to - [Exercise 2](/exercises/ex2)
+Continue to - [Exercise 2](/exercises/ex2/ex21/README.md)
