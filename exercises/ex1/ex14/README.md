@@ -21,5 +21,5 @@ Run through the following steps
 
 At the end of this exercise, you should have a running integration flow that subscribes to your new hire event, and sends a welcome email once a new hire has been created.
 
-Next, we will create a new integration flow to trigger a workflow in SAP Process Automation. Continue to - [Exercise 2](/exercises/ex2)
+Next, we will create a new integration flow to trigger a workflow in SAP Build Process Automation. Continue to - [Exercise 2](/exercises/ex2)
 
