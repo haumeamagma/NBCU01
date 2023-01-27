@@ -5,10 +5,7 @@ We have prepared an integration flow that you can use as a template for triggeri
 ## Exercise steps
 
 Run through the following steps
-1. Open the SAP Integration Suite landing page at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com** and logon with the user **userXX** with **XX** replaced with the participant number assigned to you and the password provided to you
-
-    <br><img src="/exercises/ex1/images/01-0000.png" width=80%>
-
+1. Open the SAP Integration Suite landing page at **https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com**.
 2. Expand the Navigation pane and switch to the *Design --> Integrations* area
 
     <br><img src="/exercises/ex1/images/01-0001.png" width=50%>
