@@ -6,7 +6,11 @@ Learn how to build an event-driven hyper-automation scenario where you react and
 
 ## Prerequisite
 
-- If your topic requires them. Mention `None` if there aren't any.
+There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration platform from SAP. However, you will be able to derive increased value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
+
+You can check out this SAP Discovery Center mission that will help you in getting started with SAP Integration Suite:
+
+* [Get Started with Integration Suite - Cloud Integration](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
 
 
 ## Overview
