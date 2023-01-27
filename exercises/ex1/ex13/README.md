@@ -2,6 +2,19 @@
 
 In this exercise, you will configure and deploy the beforehand copied integration flow.
 
+Let us begin with understanding the integration flow copied. This integration flow has three steps:
+1. JSON to XML Converter - The message received from AEM is in JSON format. Working with XML message formats opens up many possibilities with Integration Suite, hence we transform the message from JSON to XML.
+<br>![Script collection](/exercises/ex1/images/01-0018-step1.png)
+
+2. Content Modifier to **Extract New Hire Attributess** and
+In this step the following values needed for further processing are extracted from the input payload : employeeId,employeeName,hireDate,gender,dateOfBirth,email,cellPhone,managerId,managerName,managerHR,company,jobTitle,departmentCode,departmentText,businessunitCode, businessunitText,divisionCode,divisionText,location and country.
+<br>![Script collection](/exercises/ex1/images/01-0018-payload.png) 
+<br>![Script collection](/exercises/ex1/images/01-0018-step2.png)
+
+3. Content Modifier to **Set Email Body**
+Here theNew Hire Welcome Email is composed based on values extracted in the previous step. The New Hire Email inputed from the user through configuration will be used.
+<br>![Script collection](/exercises/ex1/images/01-0018-step3.png)
+
 ## Exercise steps
 
 Run through the following steps.
