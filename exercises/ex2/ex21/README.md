@@ -34,7 +34,7 @@ Run through the following steps
 
 At the end of this exercise, you should have copied the provided integration flow.
 
-Continue to - [Exercise 2.2](/exercises/ex2/ex21/README.md)
+Continue to - [Exercise 2.2](/exercises/ex2/ex22/README.md)
 
 
 
