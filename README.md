@@ -1,34 +1,37 @@
-# Event-Driven Hyper-Automation using SAP Integration Suite and SAP Build [HO010]
+# HO010 - Event-Driven Hyperautomation using SAP Integration Suite and SAP Build
 
 ## Description
 
-Learn how to build an event-driven hyper-automation scenario where you react and respond to a new hire business event from SAP SuccessFactors using SAP Integration Suite. This includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.
-
-## Prerequisite
-
-There are no prior requirements to this exercise. You can perform this even if you do not have any experience with integration platform from SAP. However, you will be able to derive increased value from this session if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
-
-You can check out this SAP Discovery Center mission that will help you in getting started with SAP Integration Suite:
-
-* [Get Started with Integration Suite - Cloud Integration](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
+Learn how to build an event-driven hyperautomation scenario where you react and respond to a new hire business event from SAP SuccessFactors using SAP Integration Suite. From SAP Integration Suite we would leverage Advanced Event Mesh and Cloud Integration capabilities.
+This also includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.
 
 
 ## Overview
   
-Check out the following chapters to understand the overall integration scenario that is handled in this exercise:
+This session introduces attendees to <b>Hyperautomation</b>. Gartner identified hyperautomation as the Top 10 Strategic Technology Trends for 2022 and it defines hyperautomation as:
+<br/><br/>
+<i>“Hyperautomation is a business-driven, disciplined approach that organizations use to rapidly identify, vet and automate as many business and IT processes as possible. Hyperautomation involves the orchestrated use of multiple technologies, tools or platforms, including: artificial intelligence (AI), machine learning, event-driven software architecture, robotic process automation (RPA), business process management (BPM) and intelligent business process management suites (iBPMS), integration platform as a service (iPaaS), low-code/no-code tools, packaged software, and other types of decision, process and task automation tools.”</i>
 
-Scenario Introduction
+
+<b>SAP Integration Suite</b> & <b>SAP Build Process Automation</b> can support our customers today by quickly identifying, vetting and automating as many processes as possible.
+
+Check out the following chapters to understand and achieve an end-to-end employee onboarding business process integration scenario that is implemented in this session:
+
+- [Scenario Introduction](intro/intro1)
 - [New hire event configuration in SAP SuccessFactors (for your information only)](intro/intro2) 
-- [SAP Integration Suite, advance event mesh configuration (for your information only)](intro/AEM) 
+- [SAP Integration Suite, Advance Event Mesh configuration (for your information only)](intro/AEM) 
 
-This template is a suggested approach in structuring you content. 
 
-You can use the `Use this template` button to clone this template.
+## Prerequisite
 
-Feel free to add/modify sections according to your needs.
+There are no prior requirements to this session. You can perform this exercise even if you do not have any experience with SAP Integration Suite and SAP Build Process Automation. However, you will be able to derive more value from this session, if you have some knowledge on SAP Integration Suite and SAP Build Process Automation and how it helps with enterprise-wide business process integration and automation needs.
 
-- Please try to break down your contents to logical exercises with links for navigation.
-- You may use & modify the [session-feedback-template](.github/ISSUE_TEMPLATE/session-feedback-template.md) to create questionnaires for the feedback of the session.
+You can check out this SAP Discovery Center missions that will help you in getting started with SAP Integration Suite, SAP Integration Suite, Advanced Event Mesh and SAP Build Proces Automation
+
+* [SAP Integration Suite](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/integration-suite?region=all)
+* [SAP Integration Suite, Advanced Event Mesh]
+* [SAP Build Process Automation]
+
 
 ## Exercises
 
