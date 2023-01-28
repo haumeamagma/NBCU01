@@ -30,11 +30,11 @@ You can check out the following SAP Discovery Center missions that will help you
 
 * [SAP Integration Suite](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/integration-suite?region=all)
 * [SAP Build Process Automation](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/sap-build-process-automation?region=all)
-* [SAP Integration Suite, Advanced Event Mesh](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/advanced-event-mesh?service_plan=default&region=europe(frankfurt)&commercialModel=cloud)
+* [SAP Integration Suite, Advanced Event Mesh](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/advanced-event-mesh)
 
 ## System logon & user information
 
-For running through the exercises, we will provide access to the following systems:
+For running through the exercises, we will provide access to the following applications:
 - [SAP Integration Suite tenant](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
 - [SAP Build Process Automation - Task Center](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html)
 
