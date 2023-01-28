@@ -14,7 +14,7 @@ Run through the following steps:
 <br><img src="/exercises/ex4/ex42/images/Step02.jpg" width=70% height=70%>
 
 3. The mail also has a link to Qualtrics. Click on this link and observe that the onboarding experience survey has been contextualized to you as a specific individual who has newly been hired in the organization, with team specific and manager specific questions getting reflected (these items were selected in SuccessFactors during the creation step).
-<br><img src="/exercises/ex4/ex42/images/Step03.png" width=70% height=70%>
+<br><img src="/exercises/ex4/ex42/images/Step03.jpg" width=70% height=70%>
 
 ## Summary
 
