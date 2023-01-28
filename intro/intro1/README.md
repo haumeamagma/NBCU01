@@ -15,8 +15,7 @@ Instead of developing point-to-point integration for the above two use cases, yo
 
 ## Scenario Architecture
 
-<b> !! :boom: Insert Architecture Diagram here :boom: !!</b>
-
+<br><img src="/intro/intro1/images/Architecture.png">
 As and when you add a new employee in SAP SuccessFactors,
 1a. It will publishes an event with the required payload to Cloud Integration REST interface.
 
