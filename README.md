@@ -26,21 +26,28 @@ Check out the following chapters to understand and achieve an end-to-end employe
 
 There are no prior requirements to this session. You can perform this exercise even if you do not have any experience with SAP Integration Suite and SAP Build Process Automation. However, you will be able to derive more value from this session, if you have some knowledge on SAP Integration Suite and SAP Build Process Automation and how it helps with enterprise-wide business process integration and automation needs.
 
-You can check out this SAP Discovery Center missions that will help you in getting started with SAP Integration Suite, SAP Integration Suite, Advanced Event Mesh and SAP Build Proces Automation
+You can check out the following SAP Discovery Center missions that will help you in getting started with SAP Integration Suite, SAP Build Proces Automation and SAP Integration Suite, Advanced Event Mesh 
 
 * [SAP Integration Suite](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/integration-suite?region=all)
-* [SAP Integration Suite, Advanced Event Mesh]
-* [SAP Build Process Automation]
+* [SAP Build Process Automation](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/sap-build-process-automation?region=all)
+* [SAP Integration Suite, Advanced Event Mesh](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/advanced-event-mesh?service_plan=default&region=europe(frankfurt)&commercialModel=cloud)
 
+## System logon & user information
+
+For running through the exercises, we will provide access to the following systems:
+- [SAP Integration Suite tenant](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
+- [SAP Build Process Automation - Task Center](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html)
+
+User and password information will be provided to you by the instructors.
+
+When you run through the exercise steps, you need to ensure that the technical IDs of the integration artifacts that you will create are unique. Hence, add a participant number to your integration artifacts. The participant number will be assigned to you by the instructors.
 
 ## Exercises
 
+In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
+
 1. [ex1](exercises/ex1/README.md)
 2. [ex2](exercises/ex2/ex21/README.md)
-
-<!-- />
-Comments
-<!-->
 
 ## License
 
