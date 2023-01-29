@@ -28,9 +28,9 @@ There are no prior requirements to this session. You can perform this exercise e
 
 You can check out the following SAP Discovery Center missions that will help you in getting started with SAP Integration Suite, SAP Build Proces Automation and SAP Integration Suite, Advanced Event Mesh 
 
-* [SAP Integration Suite](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/integration-suite?region=all)
-* [SAP Build Process Automation](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/sap-build-process-automation?region=all)
-* [SAP Integration Suite, Advanced Event Mesh](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/advanced-event-mesh)
+* [SAP Integration Suite](https://discovery-center.cloud.sap/serviceCatalog/integration-suite)
+* [SAP Build Process Automation](https://discovery-center.cloud.sap/serviceCatalog/sap-build-process-automation)
+* [SAP Integration Suite, Advanced Event Mesh](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh)
 
 ## System logon & user information
 
