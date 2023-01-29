@@ -36,6 +36,6 @@ Run through the following steps in the given order:
 
 If you want some more information on the general concepts around **Event-Driven Architectures**, you can check [here](https://solace.com/what-is-event-driven-architecture/) for a brief introduction.
 
-Now that you have gone through all introduction chapters, you should have a clear picture of the overall integration scenario, and could start with the actual exercises.
+Now that you have gone through all the introduction chapters, you should have a clear picture of the overall integration scenario and could start with the actual exercises.
 
-Navigate back to - [Exercise overview page](/README.md#exercises)
+Navigate to - [Exercise overview page](/README.md#exercises)
