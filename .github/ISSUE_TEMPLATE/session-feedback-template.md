@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Thanks for taking a couple of minutes to give feedback, which will help me improve for next time. 
+Thanks for taking a couple of minutes to give feedback, which will help us to improve for the next time. 
 
 **Instructions**
 1. Before doing anything else, hit the green button "Submit new issue" right now to save this issue content
