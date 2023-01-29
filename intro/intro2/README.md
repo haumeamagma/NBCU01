@@ -33,23 +33,25 @@ We have not configured any fields here as this is not required for this scenario
 We have not defined any filters for this scenario, click <b>Next</b> to see the destination settings.
     <br><img src="/intro/intro2/images/IC_Filter.png" width=90% height=90%>
 
-9. In the <b>Destination Settings</b> tab, we have defined the REST endpoint and Authentication details of <b>SAP Integration Suite, Advanced Event Mesh</b> along with the topic name i.e. <b>SuccessFactors/NewHire</b>. The new hire events would get published to this topic only. <br/><br/>
+9. In the <b>Destination Settings</b> tab, we have defined the REST endpoint and Authentication details of <b>SAP Integration Suite, Advanced Event Mesh</b> along with the topic name i.e. <b>SuccessFactors/NewHire</b>. The new hire event would get published to this topic only. <br/><br/>
+[SAP Integration Suite, Advanced Event Mesh configuration](intro/AEM) section helps you to understand these settings in more details.<br/>
 Click <b>Next</b> to review and run the integration.
     <br><img src="/intro/intro2/images/IC_Destination_Settings.png" width=90% height=90%>
 
-10. In the <b>Review and Run</b> tab, we can review the settings of the integration before committing it and run as well.</br>
-After the review and run, save it to deploy it to the server
+10. In the <b>Review and Run</b> tab, we can review the settings of the integration before committing it.</br>
+After the review, save it to deploy it to the server.
     <br><img src="/intro/intro2/images/IC_Review_and_Run.png" width=90% height=90%>
     <br><br><img src="/intro/intro2/images/IC_Save_Deploy.png" width=90% height=90%>
 
-11. After the review and run, save it to deploy it to the server. Go to <b>Intelligent Service Center(ISC)</b>.
+11. Go to <b>Intelligent Service Center(ISC)</b>, where you can configure this integration against the <b>Employee Hire</b> event.
     <br><img src="/intro/intro2/images/IC_Goto_ISC.png" width=90% height=90%>
     
-12. ISC showing the published event.
-    <br><img src="/intro/intro2/images/11. ISC.PNG" width=90% height=90%>    
+12. In the <b>Integration Services Center</b>, we have configured the <b>D-Com 2023 HO010 - Hyperautomation</b> integration against the <b>Employee Hire</b> event along with the given rule.
+    <br><img src="/intro/intro2/images/Integration_Services_Center.png" width=90% height=90%>   
+    <br><img src="/intro/intro2/images/Integration_Services_Center_Rule.png" width=90% height=90%>    
     
 ## Summary
 
-You should now be familiar with all the configurations that has been done in SAP SuccessFactors to enable new hire events publication to Cloud Integration.
+You should now be familiar with all the configurations that has been done in SAP SuccessFactors to enable the new hire event publication to SAP Integration Suite, Advanced Event Mesh.
 
-
+Now, to learn more about the configuration that has been done in SAP Integration Suite, Advanced Event Mesh. Continue to - [SAP Integration Suite, Advanced Event Mesh configuration](intro/AEM)
