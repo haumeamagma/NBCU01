@@ -1,6 +1,6 @@
 # New Hire event configuration in SAP SuccessFactors (for your information only)
 
-To enable the <b>New Hire</b> event in SAP SuccessFactors(SFSF) Employee Central, the following configuration steps has already been done for you. This section is for your information only, no SFSF system access has been provided for this hands-on session. 
+To enable the <b>New Hire</b> event in <b>SAP SuccessFactors(SFSF) Employee Central</b>, the following configuration steps has already been done for you. This section is for your information only, no SFSF system access has been provided for this hands-on session. 
 
 Run through the following steps in the given order:
 
@@ -39,7 +39,7 @@ We have not defined any filters for this scenario, click <b>Next</b> to see the 
 10. In the <b>Review and Run</b> tab, we can review the settings of the integration before committing it and run as well.
     <br><img src="/intro/intro2/images/Tab6_Review_and_Run.PNG" width=90% height=90%>
 
-11. After the review and run, save it and go to <b>Intelligent Service Center(ISC)</b>.
+11. After the review and run, save it to deploy it to the server. Go to <b>Intelligent Service Center(ISC)</b>.
     <br><img src="/intro/intro2/images/10. IC_Review_Run_Go_To_ISC.PNG" width=90% height=90%>
     
 12. ISC showing the published event.
