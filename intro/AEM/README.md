@@ -1,4 +1,4 @@
-# SAP Integration Suite, advanced event mesh
+# SAP Integration Suite, Advanced Event Mesh configuration (for your information only)
 
 ## Service Description
 
@@ -14,10 +14,12 @@ Find out more about **SAP Integration Suite, advanced event mesh** in the [SAP D
 
 ## Configuration Overview
 
-The following configuration has been done in preparation for this hands-on session. This section is for review only. In this section, you get a view of the pre-configurations done so that an integration designed and deployed in SAP Integration Suite is triggered when there is a change in event (New Hire) in Employee Central.
+To enable the event-driven architecture in this integration scenario, the following configuration steps has already been done for you. This section is for your information only, no SAP Integration Suite, Advanced Event Mesh access has been provided for this hands-on session.
 
-1. REST endpoint: this is the endpoint used by SAP SuccessFactors to send events to AEM. The shown endpoint is providing the hostname. The actual topic the event is sent to, will be part of the URL configuration in SFSF. You can get more information about the SFSF configuration [here](../intro2).  	
-![alt text](img/AEM_01.jpg)
+Run through the following steps in the given order:
+
+1. REST endpoint: this is the endpoint used by SAP SuccessFactors to send events to AEM. The shown endpoint is providing the hostname. The actual topic the event is sent to, will be part of the URL configuration in SFSF. You can get more information about the SFSF configuration [here](../intro2). 
+<br><img src="/intro/AEM/img/AEM_01.jpg" width=90% height=90%> 	
 
 2. AMQP endpoint: this is the endpoint used by the Integration Flows to connect to AEM. 
 ![alt text](img/AEM_02.jpg)
