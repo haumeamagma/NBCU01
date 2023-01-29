@@ -38,4 +38,4 @@ If you want some more information on the general concepts around **Event-Driven 
 
 Now that you have gone through all introduction chapters, you should have a clear picture of the overall integration scenario, and could start with the actual exercises.
 
-Navigate back to - [Exercise overview page](/README.md)
+Navigate back to - [Exercise overview page](/README.md#exercises)
