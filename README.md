@@ -35,7 +35,8 @@ You can check out the following SAP Discovery Center missions that will help you
 ## System logon & user information
 
 For running through the exercises, we will provide access to the following applications:
-- [SAP Integration Suite tenant](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
+- [SAP Integration Suite tenant 1](https://teched-us01.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
+- [SAP Integration Suite tenant 2](https://teched-us02.integrationsuite.cfapps.us10-002.hana.ondemand.com/)
 - [SAP Build Process Automation - Task Center](https://teched-2022-in260-tk4694cz.sap-process-automation.cfapps.us10.hana.ondemand.com/comsapspaprocessautomation.comsapspainbox/inbox.html)
 
 User and password information will be provided to you by the instructors.
