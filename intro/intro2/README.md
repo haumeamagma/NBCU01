@@ -1,4 +1,4 @@
-# New hire event configuration in SAP SuccessFactors (for your information only)
+# New Hire event configuration in SAP SuccessFactors (for your information only)
 
 To enable the <b>New Hire</b> event in SAP SuccessFactors(SFSF) Employee Central, the following configuration steps has already been done by the session owner for you. This section is for your understanding only. 
 
@@ -14,7 +14,7 @@ Run through the following steps in the given order:
     <br><img src="/intro/intro2/images/3. SFSF_Search_IC_Result.PNG" width=90% height=90%>
 
 4. We have aready created an integration with the name <b>D-Com 2023 HO010 - Hyperautomation</b>. <br/>
-In this we have defined the <b>New Hire</b> attributes and <b>REST destination</b> to publish the new hire event data to <b>SAP Integration Suite, Advanced Event Mesh</b> where all the subscribers can subscribe to the new hire event.</br>
+In this we have defined the <b>New Hire</b> attributes and <b>REST Destination</b> to publish the new hire event data to <b>SAP Integration Suite, Advanced Event Mesh</b> where all the subscribers can subscribe to the new hire event.</br>
 Click on the <b>Edit Integration</b> button to see the integration details
     <br><img src="/intro/intro2/images/Open_DCom_2023 HO010_Hyperautomation.PNG" width=90% height=90%>
 
