@@ -8,7 +8,7 @@ Take advantage of a complete event streaming, event management, and monitoring p
 - **Event Management:** Design, discover, visualize, share, and manage various aspects of your event-driven architecture (EDA). You can also model your EDA to visualize component relationships.
 - **Event Monitoring and Insights:** Use monitoring dashboards and confiJurabOe notLficatLons to detect potential issues before they negatively impact your brokers and event broker services.
 
-Find out more about **SAP Integration Suite, advanced event mesh** in the [SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh).
+Find out more about **SAP Integration Suite, Advanced Event Mesh(AEM)** in the [SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh).
 
 ---
 
@@ -18,20 +18,24 @@ To enable the event-driven architecture in this integration scenario, the follow
 
 Run through the following steps in the given order:
 
-1. REST endpoint: this is the endpoint used by SAP SuccessFactors to send events to AEM. The shown endpoint is providing the hostname. The actual topic the event is sent to, will be part of the URL configuration in SFSF. You can get more information about the SFSF configuration [here](../intro2). 
-<br><img src="/intro/AEM/img/AEM_01.jpg" width=90% height=90%> 	
+1. <b>REST endpoint:</b> This is the endpoint used by SAP SuccessFactors to send events to AEM. The shown endpoint is providing the hostname. The actual topic the event is sent to, will be part of the URL configuration in SFSF. You can get more information about the SFSF configuration [here](../intro2). 
+<br><img src="/intro/intro3/images/AEM_01.jpg" width=90% height=90%> 	
 
-2. AMQP endpoint: this is the endpoint used by the Integration Flows to connect to AEM. 
-![alt text](img/AEM_02.jpg)
+2. <b>AMQP endpoint:</b> This is the endpoint used by the Integration Flows in Cloud Intgeration capability of SAP Integration Suite to connect to AEM. 
+<br><img src="/intro/intro3/images/AEM_02.jpg" width=90% height=90%> 	
 
-3. Queues: for each participant there are 2 queues preconfigured. **HO010_XX_Email** and **HO010_XX_Workflow** with **XX** the participant number assigned to you. You will deploy 2 Integration Flows, each subscribing to one of the queues.    
-![alt text](img/AEM_03.jpg)
+3. <b>Queues:</b> For each participant there are 2 queues are preconfigured. **HO010_XX_Email** and **HO010_XX_Workflow** with **XX** the participant number assigned to you. You will deploy 2 Integration Flows, each subscribing to one of the queues.    
+<br><img src="/intro/intro3/images/AEM_03.jpg" width=90% height=90%> 	
 
-4. Topic Subscription: each of the queues is subscribed to the topics exposed by SAP SuccessFactors (e.g. `SuccessFactors/NewHire_EMail`). For each New Hire in SFSF an event is raised once and send to AEM. Each subscriber (=queue) gets its own copy of the event and can process it indepedently.  
-![alt text](img/AEM_04.jpg)
+4. <b>Topic Subscription:</b> Each of the queues is subscribed to the topic exposed by SAP SuccessFactors (e.g. `SuccessFactors/NewHire`). For each New Hire in SFSF an event is raised once and send to AEM topic. Each subscriber (=queue) gets its own copy of the event and can process it indepedently.  
+<br><img src="/intro/intro3/images/AEM_04.jpg" width=90% height=90%> 	
 
 ---
 
-## General information
+## Summary
 
 If you want some more information on the general concepts around **Event-Driven Architectures**, you can check [here](https://solace.com/what-is-event-driven-architecture/) for a brief introduction.
+
+Now that you have gone through all introduction chapters, you should have a clear picture of the overall integration scenario, and could start with the actual exercises.
+
+Navigate back to - [Exercise overview page](/README.md)
