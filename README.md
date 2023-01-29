@@ -22,7 +22,7 @@ Check out the following chapters to understand and achieve an end-to-end employe
 - [SAP Integration Suite, Advanced Event Mesh configuration (for your information only)](intro/intro3) 
 
 
-## Prerequisite
+## Prerequisites
 
 There are no prior requirements to this session. You can perform this exercise even if you do not have any experience with SAP Integration Suite and SAP Build Process Automation. However, you will be able to derive more value from this session, if you have some knowledge on SAP Integration Suite and SAP Build Process Automation and how it helps with enterprise-wide business process integration and automation needs.
 
