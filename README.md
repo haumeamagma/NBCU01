@@ -47,35 +47,35 @@ When you run through the exercise steps, you need to ensure that the technical I
 The complete list of exercise steps is listed below, run through them in the given order.
 <br>You can use this section as a Table of Contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
-- [Exercise 1 - Welcome Email](exercises/ex1/README.md)
+- [Exercise 1 - Copy, configure and deploy the Welcome Email subscription flow](exercises/ex1/README.md)
 
-    - [Create an own package](exercises/ex1/ex11/README.md)
+    - [Create a package](exercises/ex1/ex11/README.md)
 
     - [Copy the integration flow template](exercises/ex1/ex12/README.md)
 
-    - [Configure and deploy your integration flow](exercises/ex1/ex13/README.md)
+    - [Configure and deploy the integration flow](exercises/ex1/ex13/README.md)
 
     - [Check the deployment status](exercises/ex1/ex14/README.md)
       
-- [Exercise 2 - Process Automation](exercises/ex2/README.md)
+- [Exercise 2 - Copy, configure and deploy the Equipment and Training Approval subscription flow](exercises/ex2/README.md)
 
-    - [Copy integration flow template](exercises/ex2/ex21/README.md)
+    - [Copy the integration flow template](exercises/ex2/ex21/README.md)
 
-    - [Configure and deploy the build process automation integration flow](exercises/ex2/ex22/README.md)
+    - [Configure and deploy the integration flow](exercises/ex2/ex22/README.md)
 
-    - [Check deployment status](exercises/ex2/ex23/README.md)
+    - [Check the deployment status](exercises/ex2/ex23/README.md)
       
-- [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
+- [Exercise 3 - Onboard New Employee in SAP SuccessFactors (for your information only)](exercises/ex3/README.md)
 
-    - [Adding a new Employee (Informational Only)](/exercises/ex3/ex31)
+    - [Add a new employee (triggered by instructors for all the participants)](/exercises/ex3/ex31)
       
 - [Exercise 4 - Verify Scenario Success](exercises/ex4/README.md)
 
-    - [Check Cloud Integration Monitoring](/exercises/ex4/ex41)
+    - [Check the Cloud Integration Monitoring](/exercises/ex4/ex41)
       
     - [Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
       
-    - [Check Build Process Automation Inbox](/exercises/ex4/ex43)
+    - [Check the SAP Build Process Automation Inbox](/exercises/ex4/ex43)
 
 
 ## License
