@@ -16,7 +16,7 @@ Let us begin with understanding the copied integration flow. This integration fl
 
 ## Exercise steps
 
-Run through the following steps.
+Run through the following steps
 1. After having copied the integration flow template, you should see one integration flow in your package. From the *Actions* menu of your integration flow, select the menu entry *Configure*
 <br>![Script collection](/exercises/ex1/images/01-0010.png)
 
