@@ -4,7 +4,7 @@ We have prepared an integration flow that you can use as template to send out th
 
 ## Exercise steps
 
-Run through the following steps.
+Run through the following steps
 1. After having created your package in the previous exercise steps, navigate back by selecting *Integrations* on the breadcrumb navigation
 <br><img src="/exercises/ex1/images/01-0004.png" width=50% height=50%>
     
