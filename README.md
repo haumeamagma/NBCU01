@@ -15,7 +15,7 @@ This session introduces attendees to <b>Hyperautomation</b>. Gartner identified 
 
 <b>SAP Integration Suite</b> & <b>SAP Build Process Automation</b> can support our customers today by quickly identifying, vetting and automating as many processes as possible.
 
-Check out the following chapters to understand and achieve an end-to-end employee onboarding business process integration scenario that is implemented in this session:
+Check out the following chapters to understand and achieve an end-to-end employee onboarding business process integration scenario that is documented in this session:
 
 - [Scenario Introduction](intro/intro1)
 - [New hire event configuration in SAP SuccessFactors (for your information only)](intro/intro2) 
