@@ -1,4 +1,4 @@
-# Exercise 1.2 - Copy the integration flow template
+# Exercise 1.2 - Copy the welcome email integration flow template
 
 We have prepared an integration flow that you can use as template to send out the welcome email.
 
@@ -28,7 +28,6 @@ Run through the following steps.
  
 ## Summary
 
-At the end of this exercise, you should have copied the provided integration flow.
+At the end of this exercise, you should have copied the welcome email integration flow.
 
-Continue to - [Exercise 1.3 - Configure and deploy the integration flow](/exercises/ex1/ex13)
-
+Continue to - [Exercise 1.3 - Configure and deploy the welcome email integration flow](/exercises/ex1/ex13)
