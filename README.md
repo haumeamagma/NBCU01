@@ -63,11 +63,11 @@ In the following, the complete list of exercise steps are listed. Run through th
       [Configure and deploy the build process automation integration flow](ex22)
 
       [Check deployment status](ex23)
-4. [Exercise 3 - Onboard New Employee-Information Only] (exercises/ex3/README.md)
+4. [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
 
       [Adding a new Employee (Informational Only)](/exercises/ex3/ex31)
       
-5. [Exercise 4 - Verfiy Scenario Success] (exercises/ex4/README.md)
+5. [Exercise 4 - Verify Scenario Success](exercises/ex4/README.md)
 
       [Check Cloud Integration Monitoring](/exercises/ex4/ex41)
       
