@@ -6,7 +6,7 @@ In the first part of the exercise, you will setup an integration flow that liste
 
 Run through the exercise steps in the given order.
 
-[Create a package](ex11)
+[Create a new integration package](ex11)
 
 [Copy the integration flow template](ex12)
 
