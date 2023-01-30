@@ -1,25 +1,26 @@
 # Scenario Introduction
 
-This session scenario helps you to learn event-driven integration pattern using SAP Integration Suite Cloud Integration and Event Mesh.
+This session scenario helps you to learn more about <b>Hyperautomation</b> by implementing an event-driven scenario where you react and respond to a new hire business event from <b>SAP SuccessFactors</b> using <b>SAP Integration Suite</b> and <b>SAP Build Process Automation</b>.
 
-In this, we implement an end-to-end Recruit-to-Retire (R2R) business process across a heterogeneous and hybrid landscape i.e. SAP SuccessFactors, Email and SAP Build Process Automation.
+In this, we implement an end-to-end <b>Recruit-to-Retire (R2R)</b> business process across a heterogeneous landscape. From <b>SAP Integration Suite</b> we would leverage <b>Advanced Event Mesh</b> and <b>Cloud Integration</b> capabilities. This also includes human interactions to achieve an end-to-end employee onboarding business process using <b>SAP Build Process Automation</b>.
 
 ## Business Scenario
-Presume in your organization, you are using SAP SuccessFactors as a central Human Capital Management (HCM) application and you like to automate few aspects of newly hired employee in real-time like:
+Presume in your organization, you are using <b>SAP SuccessFactors</b> as a central Human Capital Management (HCM) application and you like to automate a few aspects of a newly hired employee in real-time like:
 
-You like to send a welcome email to the newly hired candidate along with the qualtrics survey link to understand the candidate's onboarding experience.
+1. You like to send a welcome email to the newly hired candidate along with the <b>Qualtrics</b> survey link to understand the candidate's onboarding experience.
 
-You would also like to initiate the newly hired candidate's equipment and training approval workflow to the manager using the SAP Build Process Automation.
+2. You also like to initiate the newly hired candidate's equipment and training approval workflow to the manager using the SAP Build Process Automation.
 
-Instead of developing point-to-point integration for the above two use cases, you will learn and understand how we can achieve the same via event-driven integration pattern along with the exactly-once quality of service.
+Instead of developing point-to-point integration for the above two use cases, you will learn and understand how we can achieve the same via an event-driven integration pattern.
 
 ## Scenario Architecture
 
-<br><img src="/intro/intro1/images/Architecture.png">
-As and when you add a new employee in SAP SuccessFactors,
-1a. It will publishes an event with the required payload to Cloud Integration REST interface.
+<img src="/intro/intro1/images/scenario_architecture.png" width=100% height=100%>
 
-First Subscriber handles the task of automatically informing the new Employee of the process and next steps.
+1. As and when you add(hire) a new employee in SAP SuccessFactors, with the proper [configurations](/intro/intro2), it publishes a new employee data event with the required payload.
+<br><br>
+2. The new employee data event gets published directly to <b>SAP Integration Suite, Advanced Event Mesh</b> topic using the <b>REST</b> interface.
+3. First Subscriber handles the task of automatically informing the new Employee of the process and next steps.
 2a. It then sends a welcome email to the newly hired candidate's email id along with the qualtrics survey link using the Cloud Integration Mail receiver adapter.
 2b. By clicking the qualtrics survey link, candidate provides the onboarding experience feedback.
 
