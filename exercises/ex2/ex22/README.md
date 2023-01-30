@@ -24,7 +24,7 @@ Run through the following steps.
 2. In the upcoming dialog, maintain the Queue name **HO010_XX_Workflow** whereas replacing **XX** with the participant number assigned to you.
     <br>![Script collection](/exercises/ex2/images/02-0006.png)
     
-4. Switch to the Receiver Tab in the same dialog and replace **Manager_EmailID** to **userXX@techedusers.com** , replacing **XX** with the participant number assigned to you and **NewHire_EmailID** with your email address where you can login and check the emails.
+4. Switch to the *More* Tab in the same dialog and replace **Manager_EmailID** to **userXX@techedusers.com** , replacing **XX** with the participant number assigned to you and **NewHire_EmailID** with your email address where you can login and check the emails.
    Then select *Save*. Once saved, select *Deploy*
 
     <br><img src="/exercises/ex2/images/02-0007.png" width=80%>
