@@ -21,5 +21,5 @@ Run through the following steps
 
 At the end of this exercise, you should have a running integration flow that triggers the SAP Build Process Automation process.
 
-
+Next, you will test the integration scenario, with the instructors creating a new hire in SAP SuccessFactors, triggering an Event which will be pushed to your newly created Integration Flows. Continue to - [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
 
