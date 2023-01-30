@@ -49,7 +49,7 @@ The complete list of exercise steps is listed below, run through them in the giv
 
 - [Exercise 1 - Copy, configure and deploy the Welcome Email subscription flow](exercises/ex1/README.md)
 
-    - [Create a package](exercises/ex1/ex11/README.md)
+    - [Create a new integration package](exercises/ex1/ex11/README.md)
 
     - [Copy the integration flow template](exercises/ex1/ex12/README.md)
 
