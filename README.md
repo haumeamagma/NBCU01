@@ -44,37 +44,38 @@ When you run through the exercise steps, you need to ensure that the technical I
 
 ## Exercises
 
-In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
+The complete list of exercise steps is listed below, run through them in the given order.
+<br>You can use this section as a Table of Contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
-1. [Exercise 1 - Welcome Email](exercises/ex1/README.md)
+- [Exercise 1 - Welcome Email](exercises/ex1/README.md)
 
-      [Create an own package](exercises/ex1/ex11/README.md)
+    - [Create an own package](exercises/ex1/ex11/README.md)
 
-      [Copy the integration flow template](exercises/ex1/ex12/README.md)
+    - [Copy the integration flow template](exercises/ex1/ex12/README.md)
 
-      [Configure and deploy your integration flow](exercises/ex1/ex13/README.md)
+    - [Configure and deploy your integration flow](exercises/ex1/ex13/README.md)
 
-      [Check the deployment status](exercises/ex1/ex14/README.md)
+    - [Check the deployment status](exercises/ex1/ex14/README.md)
       
-3. [Exercise 2 - Process Automation](exercises/ex2/README.md)
+- [Exercise 2 - Process Automation](exercises/ex2/README.md)
 
-      [Copy integration flow template](exercises/ex2/ex21/README.md)
+    - [Copy integration flow template](exercises/ex2/ex21/README.md)
 
-      [Configure and deploy the build process automation integration flow](exercises/ex2/ex22/README.md)
+    - [Configure and deploy the build process automation integration flow](exercises/ex2/ex22/README.md)
 
-      [Check deployment status](exercises/ex2/ex23/README.md)
+    - [Check deployment status](exercises/ex2/ex23/README.md)
       
-4. [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
+- [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
 
-      [Adding a new Employee (Informational Only)](/exercises/ex3/ex31)
+    - [Adding a new Employee (Informational Only)](/exercises/ex3/ex31)
       
-5. [Exercise 4 - Verify Scenario Success](exercises/ex4/README.md)
+- [Exercise 4 - Verify Scenario Success](exercises/ex4/README.md)
 
-      [Check Cloud Integration Monitoring](/exercises/ex4/ex41)
+    - [Check Cloud Integration Monitoring](/exercises/ex4/ex41)
       
-      [Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
+    - [Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
       
-      [Check Build Process Automation Inbox](/exercises/ex4/ex43)
+    - [Check Build Process Automation Inbox](/exercises/ex4/ex43)
 
 
 ## License
