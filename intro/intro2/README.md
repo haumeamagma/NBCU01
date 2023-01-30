@@ -54,4 +54,4 @@ After the review, save it to deploy it to the server.
 
 You should now be familiar with all the configurations that has been done in SAP SuccessFactors to enable the new hire event publication to SAP Integration Suite, Advanced Event Mesh.
 
-Now, to learn more about the configuration that has been done in SAP Integration Suite, Advanced Event Mesh. Continue to - [SAP Integration Suite, Advanced Event Mesh configuration](intro/AEM) section.
+Now, to learn more about the configuration that has been done in SAP Integration Suite, Advanced Event Mesh. Continue to - [SAP Integration Suite, Advanced Event Mesh configuration](intro/intro3) section.
