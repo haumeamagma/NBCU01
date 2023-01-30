@@ -49,13 +49,14 @@ In the following, the complete list of exercise steps are listed. Run through th
 
 1. [Exercise 1 - Welcome Email](exercises/ex1/README.md)
 
-      [Create an own package](ex11)
+      [Create an own package](exercises/ex1/ex11/README.md)
 
-      [Copy the integration flow template](ex12)
+      [Copy the integration flow template](exercises/ex1/ex12/README.md)
 
-      [Configure and deploy your integration flow](ex13)
+      [Configure and deploy your integration flow](exercises/ex1/ex13/README.md)
 
-      [Check the deployment status](ex14)
+      [Check the deployment status](exercises/ex1/ex14/README.md)
+      
 3. [Exercise 2 - Process Automation](exercises/ex2/README.md)
 
       [Copy integration flow template](ex21)
