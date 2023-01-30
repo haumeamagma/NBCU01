@@ -34,5 +34,3 @@ At the end of this exercise, you should have configured and deployed the integra
 
 Next, we will check the deployment status. 
 <br>Continue to - [Exercise 2.3 - Check deployment status of equipment and training integration flow](/exercises/ex2/ex23)
-
-
