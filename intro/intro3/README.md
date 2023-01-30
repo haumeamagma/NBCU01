@@ -18,7 +18,7 @@ To enable the event-driven architecture in this integration scenario, the follow
 
 Run through the following steps in the given order:
 
-1. <b>REST endpoint:</b> This is the endpoint used by SAP SuccessFactors to send events to AEM. The shown endpoint is providing the hostname. The actual topic the event is sent to, will be part of the URL configuration in SFSF. You can get more information about the SFSF configuration [here](../intro2). 
+1. <b>REST endpoint:</b> This is the endpoint used by SAP SuccessFactors to send events to AEM. The shown endpoint is providing the hostname. The actual topic the event is sent to, will be part of the URL configuration in SFSF. You can get more information about the SFSF configurations [here](../intro2). 
 <br><img src="/intro/intro3/images/AEM_01.jpg" width=90% height=90%> 	
 
 2. <b>AMQP endpoint:</b> This is the endpoint used by the Integration Flows in Cloud Intgeration capability of SAP Integration Suite to connect to AEM. 
