@@ -1,5 +1,6 @@
 
-Exercise 2 - Process Automation
+## Exercise 2 - Process Automation
+
 In the second part of the exercise, you will create and model a new integration flow that subscribes to Advance Event Mesh and triggers a process where the manager can decide the equipment and training required for the new hire created in SAP SuccessFactors. To achieve this, we will be using SAP Build Process Automation, the AI-powered, intuitive, and no-code solution for workflow management and RPA availble on the SAP Business Technology Platform.
 
 ## Exercise steps
