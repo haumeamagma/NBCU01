@@ -19,4 +19,4 @@ Run through the following steps
 At the end of this exercise, you should have a running integration flow that subscribes to the new hire event, and sends a welcome email along with Qualtrics survey link as and when a new employee gets added to SAP SuccessFactors.
 
 Next, we will setup Equipment and Training Approval subscription integration flow. 
-<br>Continue to - [Exercise 2 - Copy, configure and deploy the Equipment and Training Approval subscription flow](/exercises/ex2/ex21/README.md)
+<br>Continue to - [Exercise 2 - Copy, configure and deploy the Equipment and Training Approval subscription flow](/exercises/ex2/README.md)
