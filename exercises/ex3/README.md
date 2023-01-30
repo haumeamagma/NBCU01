@@ -1,16 +1,15 @@
-# Exercise 3 - Onboard New Employee (Informational Only)
+# Exercise 3 - Onboard New Employee in SAP SuccessFactors (for your information only)
 
-In the third part of the exercise, you will test the integration scenario, with the instructors creating a new hire in SAP SuccessFactors, triggering an Event which will be pushed to your newly created Integration Flows.
+In the third part of the exercise, we will test the integration scenario. Instructors would add a new employee in SAP SuccessFactors, triggering an event which will be pushed to your newly created integration flows in real-time.
 
 ## Exercise steps
 
-Please review the following explanation of what is going on in the SuccessFactors system, in adding a new employee to understand the critical information being added and captured for the downstream systems.
+Please review the following explanation to understand the process and steps of adding a new employee in SAP SuccessFactors.
 
-[Adding a new Employee (Informational Only)](ex31)
-
+[Add a new employee (triggered by instructors for all the participants)](ex31)
 
 ## Summary
 
-At the end of the third part of the tutorial, you should have configured and deployed an integration flows, and understood the process of adding a new employee to be onboarded in SuccessFactors. Additionally you should have received the triggered Welcome E-Mail for the new Employee.
+At the end of the third part of the tutorial, you should have configured and deployed an integration flows, and understood the process of adding a new employee in SAP SuccessFactors. Additionally you should have received the Welcome E-Mail for the new employee on the configured email id.
 
-Continue to - [Exercise 4](/exercises/ex4/)
+Continue to - [Exercise 4 - Verify Scenario Success](/exercises/ex4/README.md)
