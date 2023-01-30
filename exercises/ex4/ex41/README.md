@@ -27,4 +27,4 @@ You should have now some familiarity with some of the standard monitoring that i
 
 TO learn more about the additional capabilities, this following blog [Monitoring tools for Cloud Integration Capability of SAP Integration Suite](https://blogs.sap.com/2021/10/28/monitoring-tools-for-cloud-integration-capability-of-sap-integration-suite/) will be of interest to participants who want to learn more about this topic and how SAP supports monitoring.
 
-Continue to - [Exercise 4.2](/exercises/ex42)
+Continue to - [Exercise 4.2](/exercises/ex4/ex42)
