@@ -24,4 +24,4 @@ Run through the following steps
 
 You should have defined a new integration package.
 
-Continue to - [Exercise 1.2 - Copy the integration flow template](/exercises/ex1/ex12)
+Continue to - [Exercise 1.2 - Copy the welcome email integration flow template](/exercises/ex1/ex12)
