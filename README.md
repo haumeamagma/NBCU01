@@ -75,7 +75,7 @@ The complete list of exercise steps is listed below, run through them in the giv
       
     - [Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
       
-    - [Check the SAP Build Process Automation Inbox](/exercises/ex4/ex43)
+    - [Approve the new hire in SAP Build Process Automation Inbox](/exercises/ex4/ex43)
 
 
 ## License
