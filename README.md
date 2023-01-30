@@ -47,8 +47,21 @@ When you run through the exercise steps, you need to ensure that the technical I
 
 In the following, the complete list of exercise steps are listed. Run through them in the given order. You can use this section as an index or table of contents. Use the breadcrumb navigation on top of the pages to go back to the Table of Contents.
 
-1. [ex1](exercises/ex1/README.md)
-2. [ex2](exercises/ex2/ex21/README.md)
+1. [Exercise 1 - Welcome Email](exercises/ex1/README.md)
+      [Create an own package](ex11)
+
+      [Copy the integration flow template](ex12)
+
+      [Configure and deploy your integration flow](ex13)
+
+      [Check the deployment status](ex14)
+3. [Exercise 2](exercises/ex2/ex21/README.md)
+      [Copy integration flow template](ex21)
+
+      [Configure and deploy the build process automation integration flow](ex22)
+
+      [Check deployment status](ex23)
+
 
 ## License
 
