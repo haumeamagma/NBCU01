@@ -33,4 +33,4 @@ Run through the following steps.
 At the end of this exercise, you should have configured and deployed the integration flow responsible for triggering the equipment and training approval workflow.
 
 Next, we will check the deployment status. 
-<br>Continue to - [Exercise 2.3 - Check deployment status of equipment and training integration flow](/exercises/ex2/ex23)
+<br>Continue to - [Exercise 2.3 - Check the deployment status of equipment and training integration flow](/exercises/ex2/ex23)
