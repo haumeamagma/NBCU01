@@ -1,4 +1,4 @@
-# Exercise 2.3 - Check deployment status of welcome email integration flow
+# Exercise 2.3 - Check deployment status of integration flow
 
 In the following, you will confirm if the deployment of your integration flow was successful.
 
