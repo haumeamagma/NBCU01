@@ -34,4 +34,4 @@ Instead of developing point-to-point integration for the above two use cases, yo
 ## Summary
 You should now be familiar with the session scenario.
 
-Now, to learn all the configurations that has been done in <b>SAP SuccessFactors</b> to enable new hire event publication to <b>SAP Integration Suite, Advanced Event Mesh</b>, you can navigate to - [SAP SuccessFactors Configuration](/intro/intro2)
+Now, to learn all the configurations that has been done in <b>SAP SuccessFactors</b> to enable new hire event publication to <b>SAP Integration Suite, Advanced Event Mesh</b>, you can navigate to [SAP SuccessFactors Configuration](/intro/intro2) section.
