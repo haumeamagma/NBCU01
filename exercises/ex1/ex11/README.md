@@ -17,8 +17,7 @@ Run through the following steps
 4. In the new package, maintain the unique name **D-Com 2023 HO010 - XX** with **XX** replaced with the participant number assigned to you
 5. Maintain a short description
 6. When done, click on *Save*
-
-    <br>![Maintain package name](/exercises/ex1/images/01-0003.png)
+<br>![Maintain package name](/exercises/ex1/images/01-0003.png)
 
 ## Summary
 
