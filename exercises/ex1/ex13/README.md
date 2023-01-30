@@ -1,4 +1,4 @@
-# Exercise 1.3 - Configure and deploy the integration flow
+# Exercise 1.3 - Configure and deploy the welcome email integration flow
 
 In this exercise, you will configure and deploy the beforehand copied integration flow.
 
@@ -33,7 +33,7 @@ Run through the following steps.
 
 ## Summary
 
-At the end of this exercise, you should have configured and deployed the integration flow responsible for sending the welcome eamil along with Qualtrics survey link. Next, we will check the deployment status. 
+At the end of this exercise, you should have configured and deployed the integration flow responsible for sending the welcome email along with Qualtrics survey link. 
 
-Continue to - [Exercise 1.4 - Check the deployment status](/exercises/ex1/ex14)
-
+Next, we will check the deployment status. 
+<br>Continue to - [Exercise 1.4 - Check the deployment status of welcome email integration flow](/exercises/ex1/ex14)
