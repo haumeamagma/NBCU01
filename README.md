@@ -63,9 +63,15 @@ In the following, the complete list of exercise steps are listed. Run through th
       [Configure and deploy the build process automation integration flow](ex22)
 
       [Check deployment status](ex23)
-4. [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
+4. [Exercise 3 - Onboard New Employee(Information Only)] (exercises/ex3/README.md)
+
       [Adding a new Employee (Informational Only)](ex31)
-5.
+      
+5. [Exercise 4 - Verfiy Scenario Success] (exercises/ex4/README.md)
+     
+      [Check Cloud Integration Monitoring](/exercises/ex4/ex41)
+      [Check your Email Inbox and Click through Qualtrics Survey](/exercises/ex4/ex42)
+      [Check Build Process Automation Inbox](/exercises/ex4/ex43)
 
 
 ## License
