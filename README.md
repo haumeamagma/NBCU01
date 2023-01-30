@@ -59,11 +59,12 @@ In the following, the complete list of exercise steps are listed. Run through th
       
 3. [Exercise 2 - Process Automation](exercises/ex2/README.md)
 
-      [Copy integration flow template](ex21)
+      [Copy integration flow template](exercises/ex2/ex21/README.md)
 
-      [Configure and deploy the build process automation integration flow](ex22)
+      [Configure and deploy the build process automation integration flow](exercises/ex2/ex22/README.md)
 
-      [Check deployment status](ex23)
+      [Check deployment status](exercises/ex2/ex23/README.md)
+      
 4. [Exercise 3 - Onboard New Employee(Information Only)](exercises/ex3/README.md)
 
       [Adding a new Employee (Informational Only)](/exercises/ex3/ex31)
