@@ -34,7 +34,7 @@ Run through the following steps:
       <li><b>Gender:</b> Male</li>
       <li><b>Preferred Language:</b> From drop down list - English (US)</li>
       <li><b>Nationality:</b> From drop down list - United States</li>
-      <li>Enter Email Information:</li>(We have overwritten this Email ID in the Integration Flow with your own Email Id)
+      <li>Enter Email Information:</li>(You have overwritten this Email ID in the Integration Flow with your own Email Id)
             <ol type="a">
                   <li><b>Email Type:</b> Business</li>
                   <li><b>Email Address:</b> dcom_participant@sap.com</li>
@@ -54,6 +54,7 @@ Run through the following steps:
 6. Scrolling down to the end of the page to Employment Details, because it would be cruel to make an employees first day be on Valentine's Day. Set the First Date Worked to February 15th, so they can attend this sesssion.
 <br>Click <b>Continue</b> to move the wizard forward, and then click <b>Submit</b> to finalize the addition of the new Employee.
 <br><img src="/exercises/ex3/ex31/images/3e. New Hire.PNG" width=90% height=90%>
+<br><img src="/exercises/ex3/ex31/images/3e2. New Hire.PNG" width=90% height=90%>
 
 7. When the employee has been added successfully the following screen appears.
 <br><img src="/exercises/ex3/ex31/images/3f. New Hire.PNG" width=70% height=70%>
