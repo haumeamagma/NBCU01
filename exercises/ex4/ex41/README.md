@@ -13,12 +13,11 @@ Run through the following steps:
 2. You can see the multiple tiles providing a rich variety of monitoring options. For this exercise we will monitor messages that have been processed. Click on the tile under <b>Monitor Message Processing</b> to look at All Integration Flows
 <br><img src="/exercises/ex4/ex41/images/Step02.png" width=70% height=70%>
 
-3. In this view, you can filter integrations that are deployed by you by using the Artifact field. Here, to filter through the multiple messages that could have been processed in the last one hour, you can use the particpant number you were assigned by the instructors, i.e., <i>XX</i>, where XX is the participant number assigned to you and select the Package you created. This will show all the Integration Artifacts you created contained within this package.
+3. In this view, you can filter integrations that are deployed by you by using the ID field. Here, to filter through the multiple messages that could have been processed in the last one hour, you can use your email address, which you entered in the NewHire_EmailID dyrubg configuration step of exercise Part 2. 
+
 <br><img src="/exercises/ex4/ex41/images/Step03.png" width=70% height=70%>
-<br><img src="/exercises/ex4/ex41/images/Step03a.png" width=70% height=70%>
 
 Note: If the status is not reflecting as completed across any of the integration flows, please contact one of the session moderators to troubleshoot.
-
 
 
 ## Summary
