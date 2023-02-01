@@ -19,4 +19,4 @@ Run through the exercise steps in the given order.
 ## Summary
 
 Congratulations, you have completed all the exercises of this session successfully.
-<br>Navigate back to - [Exercise overview page](/README.md#exercises)
+<br><br>Kindly refer back to [Scenario Overview](/intro/intro1) to see what you have just completed in entirety or navigate back to [Exercise overview page](/README.md#exercises).
