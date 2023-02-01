@@ -61,6 +61,6 @@ Run through the following steps:
 
 ## Summary
 
-You now have seen how the employee is added to the SuccessFactors system, which will trigger the event to <b>SAP Integration Suite, Advanced Event Mesh</b> and eventually triggers your integration flows in <b>Cloud Integration</b>
+You now have seen how the employee is added to the SuccessFactors system, which will trigger the event to <b>SAP Integration Suite, Advanced Event Mesh</b> and eventually triggers your integration flows in <b>Cloud Integration</b>.
 
 Continue to - [Exercise 4 - Verify Scenario Success](/exercises/ex4)
