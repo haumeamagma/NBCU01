@@ -67,7 +67,7 @@ The complete list of exercise steps is listed below, run through them in the giv
       
 - [Exercise 3 - Onboard New Employee in SAP SuccessFactors (for your information only)](exercises/ex3/README.md)
 
-    - [Add a new employee (triggered by instructors for all the participants)](/exercises/ex3/ex31)
+    - [Add a new employee (instructor will complete this exercise for all the participants)](/exercises/ex3/ex31)
       
 - [Exercise 4 - Verify Scenario Success](exercises/ex4/README.md)
 
