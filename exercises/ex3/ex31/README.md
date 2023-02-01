@@ -34,30 +34,32 @@ Run through the following steps:
       <li><b>Gender:</b> Male</li>
       <li><b>Preferred Language:</b> From drop down list - English (US)</li>
       <li><b>Nationality:</b> From drop down list - United States</li>
-      <li>Enter Email Information:</li>
-      - Email Type: Business
-      - Email Address: dcom_participant@sap.com
-      - Is Primary: From drop down list - Yes
+      <li>Enter Email Information:</li>(We have overwritten this Email ID in the Integration Flow with your own Email Id)
+            <ol type="a">
+                  <li><b>Email Type:</b> Business</li>
+                  <li><b>Email Address:</b> dcom_participant@sap.com</li>
+                  <li><b>Is Primary:</b> From drop down list - Yes</li>
+            </ol>
       </ol>
       <br>Then we click <b>Continue</b> to continue the wizard.
       <br><img src="/exercises/ex3/ex31/images/3b. New Hire.PNG" width=90% height=90%>
 
 5. In Job Information section, enter details as given below:
-
-Select Position: From drop down list - Inspector
-In Organizational Information, No data as Cost Center.
-<br><img src="/exercises/ex3/ex31/images/3d. New Hire.PNG" width=70% height=70%>
+      <ol type="i">
+      <li><b>Select Position:</b> From drop down list - Inspector (It automatically fills all the other fields) </li>
+      <li>In Organizational Information, No data for <b>Cost Center</b></li>
+      </ol>
+      <br><img src="/exercises/ex3/ex31/images/3d. New Hire.PNG" width=90% height=90%>
 
 6. Scrolling down to the end of the page to Employment Details, because it would be cruel to make an employees first day be on Valentine's Day set the First Date Worked to February 15th, so they can attend this sesssion.
 Click <b>Continue</b> to move the wizard forward, and then click <b>Submit</b> to finalize the Addition of the new Employee
-<br><img src="/exercises/ex3/ex31/images/3e. New Hire.PNG" width=70% height=70%>
+<br><img src="/exercises/ex3/ex31/images/3e. New Hire.PNG" width=90% height=90%>
 
 7. When the employee has been added successfully the following screen appears.
 <br><img src="/exercises/ex3/ex31/images/3f. New Hire.PNG" width=70% height=70%>
 
 ## Summary
 
-You now have seen how the employee is added to the SuccessFactors system, which will trigger the event push to Event Mesh and SAP Integration Suite.
+You now have seen how the employee is added to the SuccessFactors system, which will trigger the event to <b>SAP Integration Suite, Advanced Event Mesh</b> and eventually triggers your integration flows in <b>Cloud Integration</b>
 
-Continue to - [Exercise 4](/exercises/ex4)
-
+Continue to - [Exercise 4 - Verify Scenario Success](/exercises/ex4)
