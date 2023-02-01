@@ -15,7 +15,7 @@ Run through the following steps:
 <br><img src="/exercises/ex4/ex43/images/Step02.png" width=70% height=70%>
 
 3. The employee should have received a notification as well with information on the equipment and training selected by the manager on the newly hired candidate's email id provided as part of onboarding on SAP SuccessFactors
-<br><img src="/exercises/ex4/ex43/images/Step03.jpg" width=70% height=70%>
+<br><img src="/exercises/ex4/ex43/images/Step03.png" width=70% height=70%>
 
 ## Summary
 
