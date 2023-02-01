@@ -1,23 +1,21 @@
-# Exercise 4.2 - Check E-Mail Inbox and Qualtrics Survey
+# Exercise 4.2 - Check your Email Inbox and Click through Qualtrics Survey
 
-In this exercise, you will see the outcome for the newly added employee, upon being added by HR. 
+In this exercise, you will check your email inbox (as newly hired employee) for the welcome email as result of the successful completion of your integration flow.
 
 ## Exercise steps
 
-If you have seen your integration flows have had the message processed successfully in the previous monitoring window, you should be the recipient of a welcome e-mail.
-
 Run through the following steps:
 
-1.  Open the email inbox that you have provided in the configuration step of the Integration Flow "New Hire Welcome Email and Qualtrics Survey Link"
+1. Open the email inbox which you have configured in the `NewHire_EmailID` field of your integration flows <b>"New Hire Welcome Email and Qualtrics Survey Link"</b>
 
-2. You should have received an email from saprover123@gmail.com
-<br><img src="/exercises/ex4/ex42/images/Step02.png" width=70% height=70%>
+2. You should have received an email from saprover123@gmail.com. In case you do not see it in the inbox, check your spam or junk email folder.
+<br><img src="/exercises/ex4/ex42/images/Step02.png" width=90% height=90%>
 
-3. The mail also has a link to Qualtrics. Click on this link and observe that the onboarding experience survey has been contextualized to you as a specific individual who has newly been hired in the organization, with team specific and manager specific questions getting reflected (these items were selected in SuccessFactors during the creation step).
-<br><img src="/exercises/ex4/ex42/images/Step03.png" width=70% height=70%>
+3. The email also has a link to Qualtrics survey. Click on the link and observe that the onboarding experience survey has been contextualized to you as a specific individual who has been newly hired in the organization, with team and manager specific questions getting reflected (these items were selected in SuccessFactors while adding the new employee).
+<br><img src="/exercises/ex4/ex42/images/Step03.png" width=90% height=90%>
 
 ## Summary
 
-You should have received a welcome email and request for feedback on the onboarding process from HR manager.
+You (as newly hired employee) should have received a welcome email along with the Qualtrics survey link.
 
-Continue to - [Exercise 4.3](/exercises/ex4/ex43)
+Continue to - [Exercise 4.3 - Approve the new hire in SAP Build Process Automation Inbox](/exercises/ex4/ex43)
