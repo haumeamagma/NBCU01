@@ -51,8 +51,8 @@ Run through the following steps:
       </ol>
       <br><img src="/exercises/ex3/ex31/images/3d. New Hire.PNG" width=90% height=90%>
 
-6. Scrolling down to the end of the page to Employment Details, because it would be cruel to make an employees first day be on Valentine's Day set the First Date Worked to February 15th, so they can attend this sesssion.
-Click <b>Continue</b> to move the wizard forward, and then click <b>Submit</b> to finalize the Addition of the new Employee
+6. Scrolling down to the end of the page to Employment Details, because it would be cruel to make an employees first day be on Valentine's Day. Set the First Date Worked to February 15th, so they can attend this sesssion.
+<br>Click <b>Continue</b> to move the wizard forward, and then click <b>Submit</b> to finalize the addition of the new Employee.
 <br><img src="/exercises/ex3/ex31/images/3e. New Hire.PNG" width=90% height=90%>
 
 7. When the employee has been added successfully the following screen appears.
