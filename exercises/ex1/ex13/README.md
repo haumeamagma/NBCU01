@@ -27,9 +27,10 @@ Run through the following steps
 <br>Then select *Save*. Once saved, select *Deploy*
 <br><img src="/exercises/ex1/images/01-0012.png" width=80%>
     
-4. Confirm the next dialog and click on Ok.
+4. Close the next dialog if the warning message is shown. Then click on **Yes** to deploy and close the confirmation dialog.
 <br>![Script collection](/exercises/ex1/images/01-0013-warning.png)
 <br>![Script collection](/exercises/ex1/images/01-0014_2.png)
+<br>![Script collection](/exercises/ex1/images/01-0014.png)
 
 ## Summary
 
