@@ -28,8 +28,8 @@ Run through the following steps
 <br><img src="/exercises/ex1/images/01-0012.png" width=80%>
     
 4. Confirm the next dialog and click on Ok.
-<br>![Script collection](/exercises/ex1/images/01-0013.png)
-<br>![Script collection](/exercises/ex1/images/01-0014.png)
+<br>![Script collection](/exercises/ex1/images/01-0013-warning.png)
+<br>![Script collection](/exercises/ex1/images/01-0014_2.png)
 
 ## Summary
 
