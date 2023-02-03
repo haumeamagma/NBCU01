@@ -25,8 +25,12 @@ Run through the following steps.
 <br>Then select *Save*. Once saved, select *Deploy*
 <br><img src="/exercises/ex2/images/02-0007.png" width=80%>
     
-4. Confirm the next dialog and click on Ok.
+4. Close the next dialog if the warning message is shown. Then click on **Yes** to deploy and close the confirmation dialog.
+<br>![Script collection](/exercises/ex2/images/02-0008-warning.png)
+<br>![Script collection](/exercises/ex2/images/02-0008_0.png)
 <br>![Script collection](/exercises/ex2/images/02-0008.png)
+
+
 
 ## Summary
 
