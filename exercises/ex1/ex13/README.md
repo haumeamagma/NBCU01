@@ -23,7 +23,7 @@ Run through the following steps
 2. In the upcoming dialog, maintain the Queue name **HO010_XX_Email**, replacing **XX** with the participant number assigned to you.
 <br>![Script collection](/exercises/ex1/images/01-0011.png)
     
-3. Switch to the Receiver Tab in the same dialog and replace **New Hire EMail ID** with your own Email ID where you can login and check the emails. This has been done to overwrite the email id of the newly hired candidate so that each one of you can get the welcome email on your own configured email id. 
+3. Switch to the <b>Receiver</b> Tab in the same dialog and replace **New Hire EMail ID** with your own Email ID where you can login and check the emails. This has been done to overwrite the email id of the newly hired candidate so that each one of you can get the welcome email on your own configured email id. 
 <br>Then select *Save*, in case of any warning just ignore it. Once saved, select *Deploy*
 <br><img src="/exercises/ex1/images/01-0012.png" width=80%>
     
