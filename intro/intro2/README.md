@@ -33,7 +33,7 @@ We have not configured any fields here as this is not required for this scenario
 We have not defined any filters for this scenario, click <b>Next</b> to see the destination settings.
     <br><img src="/intro/intro2/images/IC_Filter.png" width=90% height=90%>
 
-9. In the <b>Destination Settings</b> tab, we have defined the REST endpoint and Authentication details of <b>SAP Integration Suite, Advanced Event Mesh</b> along with the topic name i.e. <b>SuccessFactors/NewHire</b>. The new hire event would get published to this topic only. <br/><br/>
+9. In the <b>Destination Settings</b> tab, we have defined the REST endpoint and Authentication details of <b>SAP Integration Suite, Advanced Event Mesh</b> along with the topic name `SuccessFactors/NewHire`. The new hire event would get published to this topic only. <br/><br/>
 [SAP Integration Suite, Advanced Event Mesh configuration](/intro/intro3) section helps you to understand these settings in more detail.<br/>
 Click <b>Next</b> to review and run the integration.
     <br><img src="/intro/intro2/images/IC_Destination_Settings.png" width=90% height=90%>
