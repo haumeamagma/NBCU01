@@ -21,8 +21,8 @@ Click on the <b>Edit Integration</b> button to see the integration details.
 5. In the <b>Options</b> tab, we have provided the <b>Integration Name</b> and <b>Description</b>. Click <b>Next</b> to see the configured fields.
     <br><img src="/intro/intro2/images/IC_Options.png" width=90% height=90%>
 
-6. In the <b>Configure Fields</b> tab, we have defined the <b>New Hire</b> attributes like employee name, position, manager name, etc. that is required for this scenario. As this event contains all the fields necessary for the scenario, we do not need to do a call back to get the newly hired details.<br/>
-We call this type of event as data event. On the right side, you can also see the data preview. Click <b>Next</b> to see the response fields.
+6. In the <b>Configure Fields</b> tab, we have defined the <b>New Hire</b> attributes like employee name, position, manager name, etc. that is required for this scenario. As this event contains all the fields necessary for the scenario, we do not need to do a call back to get the newly hired details. We call this type of event as data event.<br/>
+On the right side, you can also see the data preview. Click <b>Next</b> to see the response fields.
     <br><img src="/intro/intro2/images/IC_Configure_Fields.png" width=90% height=90%>
 
 7. In the <b>Response Fields</b> tab, we can configure fields for processing the REST response.<br/>
