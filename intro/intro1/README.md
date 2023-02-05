@@ -22,11 +22,11 @@ Instead of developing point-to-point integration for the above two use cases, yo
 2. The new employee data event gets published directly to <b>SAP Integration Suite, Advanced Event Mesh</b> topic using the <b>REST</b> interface.
 
 3. <b>First Subscriber</b> listens to the AEM queue that is subscribed to the topic `SuccessFactors/NewHire` exposed by SAP SuccessFactors by using the Cloud Integration AMQP sender adapter.
-    <br> 3a. It then sends a welcome email to the given newly hired candidate's email id along with the <b>Qualtrics</b> survey link using the Cloud Integration Mail receiver adapter.
+    <br> 3a. It would then sends a welcome email to the given newly hired candidate's email id along with the <b>Qualtrics</b> survey link using the Cloud Integration Mail receiver adapter.
     <br> 3b. By clicking the <b>Qualtrics</b> survey link, candidate can provide the onboarding experience feedback.
 
 4. <b>Second Subscriber</b> listens to the other AEM queue that is also subscribed to the same topic `SuccessFactors/NewHire` exposed by SAP SuccessFactors by using the Cloud Integration AMQP sender adapter.
-    <br> 4a. It will trigger the equipment and training approval workflow in SAP Build Process Automation and assign the task to the manager on the given manager's email id using the Cloud Integration HTTPS receiver adapter. This will be visible in the Task Center(one inbox).
+    <br> 4a. It would then trigger the equipment and training approval workflow in SAP Build Process Automation and assign the task to the manager on the given manager's email id using the Cloud Integration HTTPS receiver adapter. This will be visible in the Task Center(one inbox).
     <br> 4b. On approval or rejection, workflow notify the newly hired candidate on the given candidate's email id.
     <br><br>
     
