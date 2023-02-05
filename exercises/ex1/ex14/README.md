@@ -11,7 +11,7 @@ Run through the following steps
 2. In the Monitor overview, select the first tile below the *Manage Integration Content* section
 <br><img src="/exercises/ex1/images/01-0016.png" width=60% height=60%>
 
-3. Search for your integration flow, and confirm that the status has turned to **Started**
+3. Search for your integration flow - <b>SAP SFSF New Hire Welcome Email along with Qualtrics Survey Link_XX</b>, replacing <b>XX</b> with the participant number assigned to you. Check and confirm that the status has turned to **Started**
 <br>![Design menu](/exercises/ex1/images/01-0017.png)
 
 ## Summary
