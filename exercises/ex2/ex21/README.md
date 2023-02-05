@@ -9,7 +9,7 @@ Run through the following steps
 2. Expand the Navigation pane and switch to the *Design --> Integrations* area
 <br><img src="/exercises/ex1/images/01-0001.png" width=50%>
 
-3. Use _Filter_ with **SOLUTION** to find  the package **D-Com 2023 HO010 - SOLUTION**, click and navigate to the artifacts tab.
+3. Use _Filter_ with **SOLUTION** to find  the package **D-Com 2023 HO010 - SOLUTION**, click and navigate to the <b>Artifacts</b> tab.
 <br>![Maintain package name](/exercises/ex2/images/02-0001.png)
 
 4. From the *Actions* menu of the **SAP SFSF New Hire Onboarding Process using SAP Build Process Automation**, select the menu entry *Copy*
@@ -17,7 +17,7 @@ Run through the following steps
 
 5. In the upcoming dialog, add the participant number assigned to you to the **name** of the copied integration flow. Update the name of the integration flow to **SAP SFSF New Hire Onboarding Process using SAP Build Process Automation_XX**, replacing **XX** with the participant number assigned to you.
 
-6. **Important**: as target package select your beforehand created package to ensure that the integration flow is copied into your package
+6. **Important**: As the target package, select your beforehand created package to ensure that the integration flow is copied into your package
 7. When done, select the *Copy* button
 <br>![Maintain name and target](/exercises/ex2/images/02-0003.png)
 
