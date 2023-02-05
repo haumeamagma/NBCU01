@@ -11,7 +11,7 @@ Run through the following steps
 2. In the Design area, open the **D-Com 2023 HO010 - SOLUTION** package
 <br><img src="/exercises/ex1/images/01-0005.png" width=50% height=50%>
     
-3. In the package, switch to the *Artifacts* tab
+3. In the package, switch to the <b>Artifacts</b> tab
 <br><img src="/exercises/ex1/images/01-0006.png" width=50% height=50%>
 
 4. From the *Actions* menu of the **SAP SFSF New Hire Welcome Email along with Qualtrics Survey Link**, select the menu entry *Copy*
