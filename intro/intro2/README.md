@@ -25,7 +25,7 @@ Click on the <b>Edit Integration</b> button to see the integration details.
 On the right side, you can also see the data preview. Click <b>Next</b> to see the response fields.
     <br><img src="/intro/intro2/images/IC_Configure_Fields.png" width=90% height=90%>
 
-7. In the <b>Response Fields</b> tab, we can configure fields for processing the REST response.<br/>
+7. In the <b>Response Fields</b> tab, we can configure the fields for processing the REST response.<br/>
 We have not configured any fields here as this is not required for this scenario. Click <b>Next</b> to see the filters.
     <br><img src="/intro/intro2/images/IC_Response_Fields.png" width=90% height=90%>
 
