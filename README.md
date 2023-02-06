@@ -2,7 +2,7 @@
 
 ## Description
 
-Learn how to build an event-driven hyperautomation scenario where you react and respond to a new hire business event from SAP SuccessFactors using SAP Integration Suite. From SAP Integration Suite we would leverage Advanced Event Mesh and Cloud Integration capabilities.
+Learn how to build an event-driven hyperautomation scenario where you react and respond to a new hire business event from SAP SuccessFactors using SAP Integration Suite. From SAP Integration Suite we will leverage Advanced Event Mesh and Cloud Integration capabilities.
 This also includes human interactions to achieve an end-to-end employee onboarding business process using SAP Build Process Automation.
 
 
