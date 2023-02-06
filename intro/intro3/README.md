@@ -6,7 +6,7 @@ Take advantage of a complete event streaming, event management, and monitoring p
 
 - **Event Streaming:** Deploy event broker services, create event meshes, and optimize and monitor your event-driven system.
 - **Event Management:** Design, discover, visualize, share, and manage various aspects of your event-driven architecture (EDA). You can also model your EDA to visualize component relationships.
-- **Event Monitoring and Insights:** Use monitoring dashboards and confiJurabOe notLficatLons to detect potential issues before they negatively impact your brokers and event broker services.
+- **Event Monitoring and Insights:** Use monitoring dashboards and configurable notifications to detect potential issues before they negatively impact your brokers and event broker services.
 
 Find out more about **SAP Integration Suite, Advanced Event Mesh(AEM)** in the [SAP Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh).
 
