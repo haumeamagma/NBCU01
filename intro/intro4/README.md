@@ -1,10 +1,10 @@
 # SAP Integration Suite -- additional links to learn more about everything Integration Suite.
 
-## SAP Workzone
+## SAP Workzone for Integration Suite
 - [Integration Suite Homepage](https://workzone.one.int.sap/site#workzone-home&/groups/1OAwL01xpv0Aoc1jIp4MsM/overview_page/pQQyPcnAQknR4ZOqB8y2ag)
 * [Integration Suite Decks and Assets](https://workzone.one.int.sap/site#workzone-home&/wiki/show/QtEPzS90vSOKnUhjxKoNad?_lightbox=true)
 
-## SAP API Business Hub - SAPs public Integration Catalog.
+## SAP API Business Hub - SAPs public Integration Catalog
 - [SAP API Business Hub Homepage](https://api.sap.com)
 - [Integration Guidelines on SAP API Business Hub](https://api.sap.com/search?searchterm=guidelines)
 
@@ -12,25 +12,24 @@
 - [BTP Trial Account](https://account.hanatrial.ondemand.com/)
 - [Tutorial - Signing up for Trial Integration Suite Account](https://developers.sap.com/tutorials/btp-free-tier-account.html)
 
-## Discovery Center
+## Discovery Center Missions to get started with Integration Suite
 - [Get Started with Integration Suite Mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
 - [Get Started with Integration Suite API Management mission](https://discovery-center.cloud.sap/missiondetail/3062/3072/)
 - [Simplify connectivity to any application with Integration Suite Open Connectors mission](https://discovery-center.cloud.sap/missiondetail/3097/3117/)
 - [Create simple, connected digital experiences with API-based Integration](https://discovery-center.cloud.sap/missiondetail/4033/4239/)
 - [Integrate MS Teams to SAP Service Cloud Mission](https://discovery-center.cloud.sap/missiondetail/3788/3830/)
 
-## Blogs
+## SAP Integration Suite Blogs
 - [Tag for all SAP Integration Suite Blogs](https://blogs.sap.com/tags/73554900100800003241/)
 - [Integration Adapters from SAP API Business Hub](https://blogs.sap.com/2022/05/20/integration-adapters-in-sap-api-business-hub-for-sap-integration-suite/)
 - [Monitoring tools for Cloud Integration](https://blogs.sap.com/2021/10/28/monitoring-tools-for-cloud-integration-capability-of-sap-integration-suite/)
 - [CI / CD in Integration Suite](https://blogs.sap.com/2021/06/02/ci-cd-for-sap-integration-suite-here-you-go/)
 - [Monitoring tools with Integration Suite](https://blogs.sap.com/2021/12/21/central-monitoring-of-integration-scenarios-using-sap-cloud-alm/)
 
-## SAP Community
+## SAP Community Topic Page for Integration Suite
 - [Integration Page](https://community.sap.com/topics/integration-suite)
 	
-
-## SAP Help
+## Help pages for SAP Integration Suite
 - [Integration Suite Help](https://help.sap.com/docs/SAP_INTEGRATION_SUITE?version=CLOUD)
 - [Cloud Integration Help](https://help.sap.com/docs/CLOUD_INTEGRATION)
 - [API Management Help](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT)
