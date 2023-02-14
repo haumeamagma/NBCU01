@@ -1,4 +1,4 @@
-# SAP Integration Suite -- additional links to learn more about everything Integration Suite.
+# Start today with SAP Integration Suite
 
 ## SAP Workzone for Integration Suite
 - [Integration Suite Homepage](https://workzone.one.int.sap/site#workzone-home&/groups/1OAwL01xpv0Aoc1jIp4MsM/overview_page/pQQyPcnAQknR4ZOqB8y2ag)
