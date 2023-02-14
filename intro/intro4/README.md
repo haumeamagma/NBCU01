@@ -39,7 +39,7 @@
 - [Roadmap Explorer](https://roadmaps.sap.com/board?CB=901B0ED1A0641ED8B4D1230C6387E0DB&&range=CURRENT-LAST)
 
 ## SAP Integration Suite Newsletter
-- [Sign up for Integration Suite Newsletter!](https://www.sap.com/cmp/nl/sap-cloud-platform-integration-suite/index.html?sap-outbound-id=329A475081EA65CA80961D8B7E7A87C18E69B2DD&&utm_source=SAPHybris&&utm_medium=email&&utm_campaign=SEND_TEST&&utm_term=NEWS_GL_ALL_192827_1_SAP_Cloud_Platform___Sign up now!&&utm_content=EN)
+- [Sign up for Integration Suite Newsletter!](https://www.sap.com/cmp/nl/sap-cloud-platform-integration-suite/index.html?sap-outbound-id=329A475081EA65CA80961D8B7E7A87C18E69B2DD&&utm_source=SAPHybris&&utm_medium=email&&utm_campaign=SEND_TEST&&utm_term=NEWS_GL_ALL_192827_1_SAP_Cloud_Platform___Sign%20up%20now!&&utm_content=EN)
 
 ## Back to the Main Page
 Navigate to - [Session Main Page](/README.md)
