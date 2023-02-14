@@ -79,7 +79,7 @@ The complete list of exercise steps is listed below, run through them in the giv
       
     - [Approve the new hire in SAP Build Process Automation Inbox](/exercises/ex4/ex43)
 
-## Take-Aways
+## Start today with SAP Integration Suite
 
 [Links to learn more about SAP Integration Suite](intro/intro4)
 
