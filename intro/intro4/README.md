@@ -25,6 +25,7 @@
 - [Monitoring tools for Cloud Integration](https://blogs.sap.com/2021/10/28/monitoring-tools-for-cloud-integration-capability-of-sap-integration-suite/)
 - [CI / CD in Integration Suite](https://blogs.sap.com/2021/06/02/ci-cd-for-sap-integration-suite-here-you-go/)
 - [Monitoring tools with Integration Suite](https://blogs.sap.com/2021/12/21/central-monitoring-of-integration-scenarios-using-sap-cloud-alm/)
+- [Integration Developer's Corner](https://blogs.sap.com/2017/07/17/introduction-to-developers-corner/)
 
 ## SAP Community Topic Page for Integration Suite
 - [Integration Page](https://community.sap.com/topics/integration-suite)
