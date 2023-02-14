@@ -14,6 +14,7 @@
 
 ## Discovery Center Missions to get started with Integration Suite
 - [Get Started with Integration Suite Mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
+- [SAP Integration Suite, advanced event mesh](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh?service_plan=default&region=europe(frankfurt)&commercialModel=cloud)
 - [Get Started with Integration Suite API Management mission](https://discovery-center.cloud.sap/missiondetail/3062/3072/)
 - [Simplify connectivity to any application with Integration Suite Open Connectors mission](https://discovery-center.cloud.sap/missiondetail/3097/3117/)
 - [Create simple, connected digital experiences with API-based Integration](https://discovery-center.cloud.sap/missiondetail/4033/4239/)
