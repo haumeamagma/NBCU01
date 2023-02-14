@@ -4,8 +4,13 @@
 - [Integration Suite Homepage](https://workzone.one.int.sap/site#workzone-home&/groups/1OAwL01xpv0Aoc1jIp4MsM/overview_page/pQQyPcnAQknR4ZOqB8y2ag)
 * [Integration Suite Decks and Assets](https://workzone.one.int.sap/site#workzone-home&/wiki/show/QtEPzS90vSOKnUhjxKoNad?_lightbox=true)
 
+## SAP API Business Hub - SAPs public Integration Catalog.
+- [SAP API Business Hub Homepage](https://api.sap.com)
+- [Integration Guidelines on SAP API Business Hub](https://api.sap.com/search?searchterm=guidelines)
+
 ## Get started on BTP Trial for Integration Suite
 - [BTP Trial Account](https://account.hanatrial.ondemand.com/)
+- [Tutorial - Signing up for Trial Integration Suite Account](https://developers.sap.com/tutorials/btp-free-tier-account.html)
 
 ## Discovery Center
 - [Get Started with Integration Suite Mission](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
@@ -15,17 +20,27 @@
 - [Integrate MS Teams to SAP Service Cloud Mission](https://discovery-center.cloud.sap/missiondetail/3788/3830/)
 
 ## Blogs
+- [Tag for all SAP Integration Suite Blogs](https://blogs.sap.com/tags/73554900100800003241/)
+- [Integration Adapters from SAP API Business Hub](https://blogs.sap.com/2022/05/20/integration-adapters-in-sap-api-business-hub-for-sap-integration-suite/)
 - [Monitoring tools for Cloud Integration](https://blogs.sap.com/2021/10/28/monitoring-tools-for-cloud-integration-capability-of-sap-integration-suite/)
+- [CI / CD in Integration Suite](https://blogs.sap.com/2021/06/02/ci-cd-for-sap-integration-suite-here-you-go/)
+- [Monitoring tools with Integration Suite](https://blogs.sap.com/2021/12/21/central-monitoring-of-integration-scenarios-using-sap-cloud-alm/)
 
 ## SAP Community
 - [Integration Page](https://community.sap.com/topics/integration-suite)
 	
 
 ## SAP Help
-- [Integration Suite](https://help.sap.com/docs/SAP_INTEGRATION_SUITE?version=CLOUD)
+- [Integration Suite Help](https://help.sap.com/docs/SAP_INTEGRATION_SUITE?version=CLOUD)
+- [Cloud Integration Help](https://help.sap.com/docs/CLOUD_INTEGRATION)
+- [API Management Help](https://help.sap.com/docs/SAP_CLOUD_PLATFORM_API_MANAGEMENT)
+- [Event Mesh Help](https://help.sap.com/docs/SAP_EM)
 
 ## SAP Integration Suite Roadmap 
 - [Roadmap Explorer](https://roadmaps.sap.com/board?CB=901B0ED1A0641ED8B4D1230C6387E0DB&&range=CURRENT-LAST)
+
+## SAP Integration Suite Newsletter
+- [Sign up for Integration Suite Newsletter!](https://www.sap.com/cmp/nl/sap-cloud-platform-integration-suite/index.html?sap-outbound-id=329A475081EA65CA80961D8B7E7A87C18E69B2DD&&utm_source=SAPHybris&&utm_medium=email&&utm_campaign=SEND_TEST&&utm_term=NEWS_GL_ALL_192827_1_SAP_Cloud_Platform___Sign up now!&&utm_content=EN)
 
 ## Back to the Main Page
 Navigate to - [Session Main Page](/README.md)
