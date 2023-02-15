@@ -10,8 +10,8 @@
 
 ## SAP Integration Suite, advanced event mesh
 - [AEM in Discovery Center](https://discovery-center.cloud.sap/serviceCatalog/advanced-event-mesh?region=europe(frankfurt)&service_plan=default&commercialModel=cpea)
-- [AEM Deployment Regions](https://api.sap.com/search?searchterm=guidelines](https://help.pubsub.em.services.cloud.sap/Cloud/Deployment-Considerations/deployment-options-customer-regions.htm)
-- [AEM Documentation](https://api.sap.com/search?searchterm=guidelines](https://help.pubsub.em.services.cloud.sap/Cloud/Deployment-Considerations/deployment-options-customer-regions.htm](https://help.pubsub.em.services.cloud.sap/Cloud/cloud-lp.htm)
+- [AEM Deployment Regions](https://help.pubsub.em.services.cloud.sap/Cloud/Deployment-Considerations/deployment-options-customer-regions.htm)
+- [AEM Documentation](https://help.pubsub.em.services.cloud.sap/Cloud/Deployment-Considerations/deployment-options-customer-regions.htm](https://help.pubsub.em.services.cloud.sap/Cloud/cloud-lp.htm)
 - [Blog SAPs Event-Driven Ecosystem](https://blogs.sap.com/2022/09/01/saps-event-driven-ecosystem-revisited/)
 - [Blog Introducing Advanced Event Mesh](https://blogs.sap.com/2022/10/28/turn-your-erp-into-a-team-player-introducing-sap-integration-suite-advanced-event-mesh/)
 - [Video Discover Event-Driven Integrations](https://www.youtube.com/watch?v=r9lyC_2ss2U)
