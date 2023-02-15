@@ -7,7 +7,7 @@ Let us begin with understanding the copied integration flow. This integration fl
 <br>![Script collection](/exercises/ex1/images/01-0018-step1.png)
 <br>![Script collection](/exercises/ex1/images/01-0018-payload2.png) 
 
-2. Content Modifier to **Extract New Hire Attributess** - In this step the following values needed for further processing are extracted from the XML payload using the XPath: 
+2. Content Modifier to **Extract New Hire Attributes** - In this step the following values needed for further processing are extracted from the XML payload using the XPath: 
 <br><br>employeeId,employeeName,hireDate,gender,dateOfBirth,email,cellPhone,managerId,managerName,managerHR,company,jobTitle,departmentCode,departmentText,businessunitCode, businessunitText,divisionCode,divisionText,location and country.
 <br>![Script collection](/exercises/ex1/images/01-0018-step2.png)
 
