@@ -21,7 +21,7 @@
 - [Integrate MS Teams to SAP Service Cloud Mission](https://discovery-center.cloud.sap/missiondetail/3788/3830/)
 
 ## Opensap course on Integration Suite
--[Accelerate Enterprise Integrations with SAP Integration Suite](https://open.sap.com/courses/cp10)
+- [Accelerate Enterprise Integrations with SAP Integration Suite](https://open.sap.com/courses/cp10)
 
 ## SAP Integration Suite Blogs
 - [Tag for all SAP Integration Suite Blogs](https://blogs.sap.com/tags/73554900100800003241/)
