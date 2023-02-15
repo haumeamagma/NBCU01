@@ -20,6 +20,9 @@
 - [Create simple, connected digital experiences with API-based Integration](https://discovery-center.cloud.sap/missiondetail/4033/4239/)
 - [Integrate MS Teams to SAP Service Cloud Mission](https://discovery-center.cloud.sap/missiondetail/3788/3830/)
 
+## Opensap course on Integration Suite
+-[Accelerate Enterprise Integrations with SAP Integration Suite](https://open.sap.com/courses/cp10)
+
 ## SAP Integration Suite Blogs
 - [Tag for all SAP Integration Suite Blogs](https://blogs.sap.com/tags/73554900100800003241/)
 - [Integration Adapters from SAP API Business Hub](https://blogs.sap.com/2022/05/20/integration-adapters-in-sap-api-business-hub-for-sap-integration-suite/)
