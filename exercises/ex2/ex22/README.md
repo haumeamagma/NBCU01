@@ -29,6 +29,7 @@ Run through the following steps.
 4. Close the next dialog if the warning message is shown. Then click on **Yes** to deploy and close the confirmation dialog.
 <br>![Script collection](/exercises/ex2/images/02-0008-warning.png)
 <br>![Script collection](/exercises/ex2/images/01-0008_0.png)
+<br>![Script collection](/exercises/ex2/images/Transaction_handling.PNG)
 <br>![Script collection](/exercises/ex2/images/02-0008.png)
 
 
