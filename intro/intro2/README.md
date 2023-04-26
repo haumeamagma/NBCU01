@@ -26,11 +26,11 @@ On the right side, you can also see the data preview. Click <b>Next</b> to see t
     <br><img src="/intro/intro2/images/IC_Configure_Fields.png" width=90% height=90%>
 
 7. In the <b>Response Fields</b> tab, we can configure the fields for processing the REST response.<br/>
-We have configured the Employee ID field here as NBCUEmployee to ensure we only trigger onboarding for NBCU Employees for this scenario. Click <b>Next</b> to see the filters.
+We have not configured any fields here as this is not required for this scenario. Click <b>Next</b> to see the filters.
     <br><img src="/intro/intro2/images/IC_Response_Fields.png" width=90% height=90%>
 
 8. In the <b>Filter</b> tab, we can configure the advanced filter and sort options.<br/>
-We have not defined any filters for this scenario, click <b>Next</b> to see the destination settings.
+We have configured the Employee ID field here as NBCUEmployee to ensure we only trigger onboarding for NBCU Employees for this scenario, click <b>Next</b> to see the destination settings.
     <br><img src="/intro/intro2/images/IC_Filter.png" width=90% height=90%>
 
 9. In the <b>Destination Settings</b> tab, we have defined the REST endpoint and Authentication details of <b>SAP Integration Suite, Advanced Event Mesh</b> along with the topic name `SuccessFactors/NewHire`. The new hire event would get published to this topic only. <br/><br/>
