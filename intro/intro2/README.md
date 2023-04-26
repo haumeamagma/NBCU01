@@ -26,7 +26,7 @@ On the right side, you can also see the data preview. Click <b>Next</b> to see t
     <br><img src="/intro/intro2/images/IC_Configure_Fields.png" width=90% height=90%>
 
 7. In the <b>Response Fields</b> tab, we can configure the fields for processing the REST response.<br/>
-We have not configured any fields here as this is not required for this scenario. Click <b>Next</b> to see the filters.
+We have configured the Employee ID field here as NBCUEmployee to ensure we only trigger onboarding for NBCU Employees for this scenario. Click <b>Next</b> to see the filters.
     <br><img src="/intro/intro2/images/IC_Response_Fields.png" width=90% height=90%>
 
 8. In the <b>Filter</b> tab, we can configure the advanced filter and sort options.<br/>
